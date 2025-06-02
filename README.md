@@ -4,7 +4,7 @@ This tool allows you to create printable cut-out flashcards for learning Chinese
 
 You can configure multiple parameters such as flashcard size, Chinese Hanzi characters, Pinyin, and Meaning by modifying the script generate_flashcards.py.
 
-You can also change the language of the meaning by choosing one from this list:
+You can also change the language of the meaning from one of this list, just make sure to change the `LANGUAGE` parameter in the script:
 | Language (Native) | Code | English Name      |
 | ----------------- | ---- | ----------------- |
 | English           | `en` | English           |
