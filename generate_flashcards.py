@@ -16,8 +16,8 @@ FONT_NAME = "NotoSansSC"
 
 LANGUAGE = "es"
 
-PAGESIZE = "A3"
-# PAGESIZE = "A4"
+# PAGESIZE = "A3"
+PAGESIZE = "A4"
 
 MARGIN_MM = 4
 
@@ -48,14 +48,13 @@ elif PAGESIZE == "A3":
     COLS = 6
 
 MARGIN = MARGIN_MM * mm
+# ------------------------------------------------
 
 USABLE_WIDTH = PAGE_WIDTH - 2 * MARGIN
 USABLE_HEIGHT = PAGE_HEIGHT - 2 * MARGIN
 
 CELL_WIDTH = USABLE_WIDTH / COLS
 CELL_HEIGHT = USABLE_HEIGHT / ROWS
-
-# ------------------------------------------------
 
 pdfmetrics.registerFont(TTFont(FONT_NAME, FONT_PATH))
 
@@ -161,7 +160,7 @@ def create_flashcards_pdf(entries, filename, hsk_level):
             c.drawString(text_x, text_y, pinyin)
 
             c.setFont(FONT_NAME, MEANING_FONT_SIZE)
-            wrapped = wrap_text(c, meaning, CELL_WIDTH - 4, MEANING_FONT_SIZE)
+            wrapped = wrap_text(meaning, CELL_WIDTH - 4, MEANING_FONT_SIZE)
             total_height = len(wrapped) * MEANING_FONT_SIZE * 1.2
             start_y = y + (CELL_HEIGHT - total_height) / 2 - MEANING_OFFSET
             for i, line in enumerate(wrapped):
@@ -174,7 +173,7 @@ def create_flashcards_pdf(entries, filename, hsk_level):
         c.showPage()
     c.save()
 
-def wrap_text(c, text, max_width, font_size):
+def wrap_text(text, max_width, font_size):
     words = text.split()
     lines = []
     current = ""
