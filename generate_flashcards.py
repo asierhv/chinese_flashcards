@@ -194,8 +194,8 @@ if __name__ == "__main__":
         input_file = f"./TXT/HSK{lvl}_{LANGUAGE}.txt"
         output_pdf = f"./PDF-{PAGESIZE}/HSK{lvl}_{LANGUAGE}_flashcards_{PAGESIZE}.pdf"
         if not os.path.exists(FONT_PATH):
-            print(f"ERROR: No se encuentra la fuente {FONT_PATH}")
+            print(f"ERROR: Can't find the font {FONT_PATH}")
         else:
             entries = parse_file(input_file)
             create_flashcards_pdf(entries, output_pdf, lvl)
-            print(f"PDF generado: {output_pdf}")
+            print(f"PDF generated: {output_pdf}")
