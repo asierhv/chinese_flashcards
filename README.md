@@ -23,5 +23,3 @@ You can check for those files at [HSK Academy](https://hsk.academy/)
 | Русский           | `ru` | Russian           |
 | ไทย               | `th` | Thai              |
 | Tiếng Việt        | `vi` | Vietnamese        |
-
-All the 
