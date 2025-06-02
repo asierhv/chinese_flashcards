@@ -2,9 +2,11 @@
 
 This tool allows you to create printable cut-out flashcards for learning Chinese, with support for A4 and A3 page sizes.
 
-You can configure multiple parameters such as flashcard size, Chinese Hanzi characters, Pinyin, and Meaning by modifying the script generate_flashcards.py.
+You can configure multiple parameters such as flashcard size, Chinese Hanzi characters, Pinyin, and Meaning by modifying the script `generate_flashcards.py`
 
-You can also change the language of the meaning from one of this list, just make sure to change the `LANGUAGE` parameter in the script:
+You can also change the language of the meaning from one of the following table.
+Just make sure to change the `LANGUAGE` parameter in the script and add the correspondant `.txt` files in the `TXT` folder.
+You can check for those files at [HSK Academy](https://hsk.academy/)
 | Language (Native) | Code | English Name      |
 | ----------------- | ---- | ----------------- |
 | English           | `en` | English           |
@@ -21,3 +23,5 @@ You can also change the language of the meaning from one of this list, just make
 | Русский           | `ru` | Russian           |
 | ไทย               | `th` | Thai              |
 | Tiếng Việt        | `vi` | Vietnamese        |
+
+All the 
