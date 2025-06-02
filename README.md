@@ -1,6 +1,7 @@
 # Chinese Flashcards Creator
 
 This tool allows you to create printable cut-out flashcards for learning Chinese, with support for A4 and A3 page sizes.
+You can run it in a python enviroment with `reportlab` installed.
 
 You can configure multiple parameters such as flashcard size, Chinese Hanzi characters, Pinyin, and Meaning by modifying the script `generate_flashcards.py`
 
