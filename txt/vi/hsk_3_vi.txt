@@ -1,0 +1,300 @@
+啊	a	gì
+阿姨	ā yí	cô
+矮	ǎi	ngắn
+爱好	ài hào	sở thích
+安静	ān jìng	hãy yên lặng
+把	bǎ	đặt
+搬	bān	di chuyển
+班	bān	lớp học
+办法	bàn fǎ	phương pháp
+办公室	bàn gōng shì	văn phòng
+半	bàn	một nửa
+帮忙	bāng máng	cứu giúp
+包	bāo	gói hàng
+饱	bǎo	đầy
+北方	běi fāng	bắc
+被	bèi	là
+鼻子	bí zi	cái mũi
+比较	bǐ jiào	so sánh
+比赛	bǐ sài	trò chơi
+笔记本	bǐ jì běn	sổ tay
+必须	bì xū	phải
+变化	biàn huà	đa dạng
+别人	bié rén	những người khác
+冰箱	bīng xiāng	tủ lạnh
+不但…而且…	bù dàn …ér qiě …	không những ... mà còn…
+菜单	cài dān	thực đơn
+参加	cān jiā	tham dự
+草	cǎo	cỏ
+层	céng	sàn nhà
+差	chà	sự khác biệt
+超市	chāo shì	siêu thị
+衬衫	chèn shān	áo sơ mi
+城市	chéng shì	thành phố
+成绩	chéng jì	lớp
+迟到	chí dào	muộn
+除了	chú le	ngoại trừ
+船	chuán	chiếc phà
+春	chūn	mùa xuân
+词典	cí diǎn	từ điển
+聪明	cōng ming	tài giỏi
+打扫	dǎ sǎo	dọn dẹp
+打算	dǎ suàn	dự định
+带	dài	ban nhạc
+担心	dān xīn	lo
+蛋糕	dàn gāo	bánh ngọt
+当然	dāng rán	tất nhiên
+地	de	mặt đất (hạt)
+灯	dēng	ánh sáng
+地方	dì fang	địa phương
+地铁	dì tiě	xe điện ngầm
+地图	dì tú	bản đồ
+电梯	diàn tī	thang máy
+电子邮件	diàn zǐ yóu jiàn	e-mail
+东	dōng	phía đông
+冬	dōng	mùa đông
+动物	dòng wù	thú vật
+短	duǎn	ngắn
+段	duàn	bộ phận
+锻炼	duàn liàn	tập thể dục
+多么	duō me	làm sao
+饿	è a	đói bụng
+耳朵	ěr duo	tai
+发	fā	tóc
+发烧	fā shāo	sốt
+发现	fā xiàn	tìm thấy
+方便	fāng biàn	tiện
+放	fàng	đặt
+放心	fàng xīn	yên tâm
+分	fēn	phút
+复习	fù xí	ôn tập
+附近	fù jìn	gần đây
+干净	gān jìng	dọn dẹp
+感冒	gǎn mào	lạnh
+感兴趣	gǎn xìng qù	quan tâm
+刚才	gāng cái	vừa rồi
+个子	gè zi	cao
+根据	gēn jù	dựa theo
+跟	gēn	với
+更	gèng	hơn
+公斤	gōng jīn	kilôgam
+公园	gōng yuán	công viên
+故事	gù shi	câu chuyện
+刮风	guā fēng	có gió
+关	guān	tắt
+关系	guān xì	mối quan hệ
+关心	guān xīn	liên quan
+关于	guān yú	trên
+国家	guó jiā	quốc gia
+过	guò	vượt qua (động từ)
+过去	guò qu	quá khứ
+还是	hái shì	vẫn là
+害怕	hài pà	sợ hãi
+黑板	hēi bǎn	bảng đen
+后来	hòu lái	một lát sau
+护照	hù zhào	hộ chiếu
+花	huā	hoa (động từ)
+花	huā	hoa (danh từ)
+画	huà	bức vẽ
+坏	huài	xấu
+欢迎	huān yíng	chào mừng
+环境	huán jìng	vùng lân cận
+还	huán	return (động từ)
+换	huàn	thay đổi
+黄河	huáng hé	dòng sông màu vàng
+回答	huí dá	đáp lại
+会议	huì yì	gặp gỡ
+或者	huò zhě	hoặc là
+几乎	jī hū	hầu hết
+机会	jī huì	dịp tốt
+极	jí	cây sào
+季节	jì jié	mùa
+记得	jì de	nhớ lại
+检查	jiǎn chá	một bài kiểm tra
+简单	jiǎn dān	đơn giản
+健康	jiàn kāng	sức khỏe
+见面	jiàn miàn	gặp
+讲	jiǎng	nói
+教	jiào	dạy
+脚	jiǎo	chân
+角	jiǎo	góc
+接	jiē	nhặt lên
+街道	jiē dào	đường phố
+结婚	jié hūn	kết hôn
+结束	jié shù	kết thúc
+节目	jié mù	chương trình
+节日	jié rì	lễ hội
+解决	jiě jué	gỡ rối
+借	jiè	vay
+经常	jīng cháng	thường xuyên
+经过	jīng guò	sau
+经理	jīng lǐ	giám đốc
+久	jiǔ	dài
+旧	jiù	cũ
+句子	jù zi	kết án
+决定	jué dìng	quyết định
+可爱	kě ài	đáng yêu
+渴	kě	khát
+刻	kè	khắc
+客人	kè rén	những vị khách mời
+空调	kōng tiáo	máy lạnh
+口	kǒu	mồm
+哭	kū	khóc
+裤子	kù zi	quân dai
+筷子	kuài zi	đũa
+蓝	lán	màu xanh da trời
+老	lǎo	cũ
+离开	lí kāi	đi chỗ khác
+礼物	lǐ wù	quà tặng
+历史	lì shǐ	lịch sử
+脸	liǎn	khuôn mặt
+练习	liàn xí	tập thể dục
+辆	liàng	xe cộ
+聊天	liáo tiān	trò chuyện với
+了解	liǎo jiě	để hiểu
+邻居	lín jū	hàng xóm
+留学	liú xué	du học
+楼	lóu	sàn nhà
+绿	lv4	màu xanh lá
+马	mǎ	con ngựa
+马上	mǎ shàng	ngay
+满意	mǎn yì	sự thỏa mãn
+帽子	mào zi	mũ
+米	mǐ	mét
+面包	miàn bāo	bánh mỳ
+明白	míng bai	hiểu biết
+拿	ná	lấy
+奶奶	nǎi nai	bà ngoại
+南	nán	miền nam
+难	nán	khó khăn
+难过	nán guò	buồn
+年级	nián jí	cấp
+年轻	nián qīng	trẻ
+鸟	niǎo	chim
+努力	nǔ lì	làm việc chăm chỉ
+爬山	pá shān	leo núi
+盘子	pán zi	đĩa
+胖	pàng	mập
+啤酒	pí jiǔ	bia
+皮鞋	pí xié	giày da
+瓶子	píng zi	chai
+其实	qí shí	trong thực tế
+其他	qí tā	khác
+奇怪	qí guài	lạ lùng
+骑	qí	dap xe
+起飞	qǐ fēi	cởi
+起来	qǐ lái	đứng lên
+清楚	qīng chu	thông thoáng
+请假	qǐng jià	xin phép
+秋	qiū	mùa thu
+裙子	qún zi	váy
+然后	rán hòu	sau đó
+热情	rè qíng	hăng hái
+认为	rèn wéi	suy nghĩ
+认真	rèn zhēn	nghiêm trọng
+容易	róng yì	dễ dàng
+如果	rú guǒ	trong trường hợp
+伞	sǎn	ô
+上网	shàng wǎng	lên mạng
+声音	shēng yīn	âm thanh
+生气	shēng qì	bực mình
+世界	shì jiè	thế giới
+试	shì	kiểm tra
+瘦	shòu	gầy
+叔叔	shū shu	chú
+舒服	shū fu	thoải mái
+数学	shù xué	toán học
+树	shù	cây
+刷牙	shuā yá	đánh răng
+双	shuāng	gấp đôi
+水平	shuǐ píng	cấp độ
+司机	sī jī	người lái xe
+太阳	tài yáng	mặt trời
+特别	tè bié	đặc biệt
+疼	téng	đau đớn
+提高	tí gāo	cải tiến
+体育	tǐ yù	giáo dục thể chất
+甜	tián	ngọt
+条	tiáo	bài báo
+同事	tóng shì	đồng nghiệp
+同意	tóng yì	đồng ý
+头发	tóu fa	tóc
+突然	tū rán	đột ngột
+图书馆	tú shū guǎn	thư viện
+腿	tuǐ	chân
+完成	wán chéng	thực hiện
+碗	wǎn	bát
+万	wàn	mười nghìn
+忘记	wàng jì	quên
+为	wèi	cho
+为了	wèi le	để mà
+位	wèi	bit
+文化	wén huà	văn hóa
+西	xī	oo
+习惯	xí guàn	thói quen
+洗手间	xǐ shǒu jiān	phòng vệ sinh
+洗澡	xǐ zǎo	đi tắm
+夏	xià	mùa hè
+先	xiān	đầu tiên
+相信	xiāng xìn	tin
+香蕉	xiāng jiāo	trái chuối
+像	xiàng	giống
+向	xiàng	đến
+小心	xiǎo xīn	hãy cẩn thận
+校长	xiào zhǎng	hiệu trưởng
+新闻	xīn wén	tin tức
+新鲜	xīn xiān	tươi
+信用卡	xìn yòng kǎ	thẻ tín dụng
+行李箱	xíng lǐ xiāng	thân cây
+熊猫	xióng māo	gấu trúc
+需要	xū yào	nhu cầu
+选择	xuǎn zé	lựa chọn
+要求	yāo qiú	yêu cầu
+爷爷	yé ye	ông nội
+一直	yī zhí	luôn luôn
+一定	yí dìng	chắc chắn
+一共	yī gòng	toàn bộ
+一会儿	yī huì er	một lúc
+一样	yī yàng	tương tự
+以前	yǐ qián	trước
+一般	yī bān	chung
+一边	yī biān	một bên
+音乐	yīn yuè	âm nhạc
+银行	yín háng	ngân hàng
+饮料	yǐn liào	uống
+应该	yīng gāi	nên
+影响	yǐng xiǎng	ảnh hưởng
+用	yòng	sử dụng
+游戏	yóu xì	trò chơi
+有名	yǒu míng	nổi danh
+又	yòu	cũng thế
+遇到	yù dào	gặp gỡ
+元	yuán	nhân dân tệ
+愿意	yuàn yì	sẵn lòng
+月亮	yuè liang	mặt trăng
+越	yuè	hơn
+站	zhàn	ga tàu
+张	zhāng	zhang
+长	zhǎng	dài (động từ)
+着急	zháo jí	lo lắng
+照顾	zhào gu	chăm lo
+照片	zhào piàn	tấm ảnh
+照相机	zhào xiàng jī	máy ảnh
+只	zhǐ	chỉ (trạng từ)
+只	zhǐ	chỉ (bộ định lượng)
+只有…才…	zhǐ yǒu …cái …	chỉ có...
+中间	zhōng jiān	trung gian
+中文	zhōng wén	người trung quốc
+终于	zhōng yú	cuối cùng
+种	zhǒng	loài (định lượng)
+重要	zhòng yào	quan trọng
+周末	zhōu mò	ngày cuối tuần
+主要	zhǔ yào	chủ yếu
+注意	zhù yì	ghi chú
+自己	zì jǐ	bản thân
+自行车	zì xíng chē	xe đạp
+总是	zǒng shì	luôn luôn
+嘴	zuǐ	mồm
+最后	zuì hòu	cuối cùng
+最近	zuì jìn	gần đây
+作业	zuò yè	hoạt động

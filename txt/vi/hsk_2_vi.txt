@@ -1,0 +1,150 @@
+吧	ba	quán ba
+白	bái	trắng
+百	bǎi	trăm
+帮助	bāng zhù	cứu giúp
+报纸	bào zhǐ	báo chí
+比	bǐ	tỉ lệ
+别	bié	đừng
+宾馆	bīn guǎn	khách sạn
+长	cháng	dài (tính từ)
+唱歌	chàng gē	hát
+出	chū	ngoài
+穿	chuān	mặc
+次	cì	times
+从	cóng	từ
+错	cuò	sai lầm
+打篮球	dǎ lán qiú	chơi bóng rổ
+大家	dà jiā	tất cả mọi người
+到	dào	đến
+得	de	nhận (hạt)
+等	děng	chờ (động từ)
+弟弟	dì di	em trai
+第一	dì yī	người đầu tiên
+懂	dǒng	hiểu biết
+对	duì	right (giới từ)
+对	duì	có (tính từ)
+房间	fáng jiān	phòng
+非常	fēi cháng	rất nhiều
+服务员	fú wù yuán	phục vụ nam
+高	gāo	cao
+告诉	gào su	nói
+哥哥	gē ge	anh trai
+给	gěi	đưa cho
+公共汽车	gōng gòng qì chē	xe buýt
+公司	gōng sī	công ty
+贵	guì	đắt
+过	guo	vượt qua (hạt)
+孩子	hái zi	đứa trẻ
+还	hái	ngoài ra (trạng từ)
+好吃	hǎo chī	tốt để ăn
+黑	hēi	đen
+红	hóng	đỏ
+火车站	huǒ chē zhàn	ga xe lửa
+机场	jī chǎng	sân bay
+鸡蛋	jī dàn	trứng
+件	jiàn	miếng
+教室	jiào shì	lớp học
+姐姐	jiě jie	em gái
+介绍	jiè shào	giới thiệu
+近	jìn	ở gần
+进	jìn	nâng cao
+就	jiù	trên
+觉得	jué de	cảm thấy
+咖啡	kā fēi	cà phê
+开始	kāi shǐ	khởi đầu
+考试	kǎo shì	kiểm tra
+可能	kě néng	có thể
+可以	kě yǐ	có thể
+课	kè	lớp học
+快	kuài	nhanh
+快乐	kuài lè	vui mừng
+累	lèi	mệt mỏi
+离	lí	từ
+两	liǎng	hai
+零	líng	số không
+路	lù	đường
+旅游	lv3 yóu	du lịch
+卖	mài	bán
+慢	màn	chậm
+忙	máng	bận
+每	měi	mỗi
+妹妹	mèi mei	em gái
+门	mén	cửa
+面条	miàn tiáo	mì
+男	nán	nam giới
+您	nín	bạn
+牛奶	niú nǎi	sữa
+女	nǚ	giống cái
+旁边	páng biān	kế bên
+跑步	pǎo bù	chạy
+便宜	pián yi	rẻ
+票	piào	vé
+妻子	qī zi	người vợ
+起床	qǐ chuáng	thức dậy
+千	qiān	nghìn
+铅笔	qiān bǐ	bút chì
+晴	qíng	thông thoáng
+去年	qù nián	năm ngoái
+让	ràng	để cho
+日	rì	ngày
+上班	shàng bān	làm việc
+身体	shēn tǐ	thân hình
+生病	shēng bìng	đau ốm
+生日	shēng rì	sinh nhật
+时间	shí jiān	thời gian
+事情	shì qing	điều
+手表	shǒu biǎo	đồng hồ đeo tay
+手机	shǒu jī	điện thoại di động
+说话	shuō huà	nói
+送	sòng	phát phần thưởng
+虽然…但是…	suī rán …dàn shì …	tuy nhiên, mặc dù…
+它	tā	nó
+踢足球	tī zú qiú	chơi bóng đá
+题	tí	câu hỏi
+跳舞	tiào wǔ	khiêu vũ
+外	wài	bên ngoài
+完	wán	hoàn thành
+玩	wán	chơi
+晚上	wǎn shang	vào ban đêm
+往	wǎng	đến
+为什么	wèi shén me	tại sao
+问	wèn	hỏi
+问题	wèn tí	vấn đề
+希望	xī wàng	mong
+西瓜	xī guā	dưa hấu
+洗	xǐ	rửa
+小时	xiǎo shí	giờ
+笑	xiào	cười
+新	xīn	mới
+姓	xìng	tên
+休息	xiū xi	nghỉ ngơi
+雪	xuě	tuyết
+颜色	yán sè	màu sắc
+眼睛	yǎn jing	con mắt
+羊肉	yáng ròu	cừu
+药	yào	thuốc
+要	yào	muốn
+也	yě	và cả
+一下	yī xià	một chút
+已经	yǐ jīng	đã sẵn sàng
+一起	yī qǐ	cùng với nhau
+意思	yì si	ý nghĩa
+因为…所以…	yīn wèi …suǒ yǐ …	bởi vì…
+阴	yīn	âm dương
+游泳	yóu yǒng	bơi
+右边	yòu bian	đúng
+鱼	yú	cá
+远	yuǎn	xa
+运动	yùn dòng	chuyển động
+再	zài	lần nữa
+早上	zǎo shang	buổi sáng
+丈夫	zhàng fu	người chồng
+找	zhǎo	tìm thấy
+着	zhe	với
+真	zhēn	thật
+正在	zhèng zài	đang
+知道	zhī dào	biết rôi
+准备	zhǔn bèi	sẵn sàng
+走	zǒu	đi
+最	zuì	phần lớn
+左边	zuǒ bian	trái

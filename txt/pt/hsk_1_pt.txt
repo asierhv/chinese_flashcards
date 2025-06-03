@@ -1,0 +1,150 @@
+爱	ài	ame
+八	bā	oito
+爸爸	bà ba	pai
+杯子	bēi zi	copo
+北京	běi jīng	pequim
+本	běn	esta
+不客气	bú kè qi	seja bem-vindo
+不	bù	não
+菜	cài	prato
+茶	chá	chá
+吃	chī	comer
+出租车	chū zū chē	táxi
+打电话	dǎ diàn huà	ligar
+大	dà	grande
+的	de	do
+点	diǎn	ponto
+电脑	diàn nǎo	computador
+电视	diàn shì	televisão
+电影	diàn yǐng	o filme
+东西	dōng xi	coisa
+都	dōu	todos
+读	dú	ler
+对不起	duì bu qǐ	desculpe
+多	duō	muitos
+多少	duō shǎo	quantos
+儿子	ér zi	filho
+二	èr	dois
+饭店	fàn diàn	restaurante
+飞机	fēi jī	aeronave
+分钟	fēn zhōng	minuto
+高兴	gāo xìng	feliz
+个	gè	uma
+工作	gōng zuò	empregos
+狗	gǒu	cão
+汉语	hàn yǔ	chinês
+好	hǎo	é bom
+号	hào	número
+喝	hē	bebida
+和	hé	com
+很	hěn	muito
+后面	hòu miàn	atrás
+回	huí	de volta a
+会	huì	encontro
+几	jǐ	um pouco
+家	jiā	família
+叫	jiào	ligar
+今天	jīn tiān	hoje em dia
+九	jiǔ	nove
+开	kāi	abrir
+看	kàn	veja
+看见	kàn jiàn	vejo
+块	kuài	peça
+来	lái	venha
+老师	lǎo shī	professor
+了	le	acima
+冷	lěng	frio
+里	lǐ	no
+六	liù	seis
+吗	ma	é isso
+妈妈	mā ma	mamãe
+买	mǎi	comprar
+猫	māo	gato
+没关系	méi guān xi	está certo
+没有	méi yǒu	não
+米饭	mǐ fàn	arroz
+名字	míng zi	primeiro nome
+明天	míng tiān	amanhã
+哪	nǎ	onde
+哪儿	nǎ er	onde
+那	nà	aquele
+呢	ne	o que
+能	néng	pode
+你	nǐ	vocês
+年	nián	ano
+女儿	nǚ ér	filha
+朋友	péng you	amigo
+漂亮	piào liang	bonita
+苹果	píng guǒ	maçã
+七	qī	sete
+前面	qián miàn	frente
+钱	qián	dinheiro
+请	qǐng	por favor
+去	qù	ir com
+热	rè	calor
+人	rén	pessoas
+认识	rèn shi	compreensão
+三	sān	três
+商店	shāng diàn	loja
+上	shàng	em
+上午	shàng wǔ	manhã
+少	shǎo	menos
+谁	shéi	who
+什么	shén me	o que
+十	shí	dez
+时候	shí hou	tempo
+是	shì	sim
+书	shū	livro
+水	shuǐ	água
+水果	shuǐguǒ	fruta
+睡觉	shuì jiào	ir para a cama
+说	shuō	dizer
+四	sì	quatro
+岁	suì	ano de idade
+他	tā	ele
+她	tā	ela era
+太	tài	também
+天气	tiān qì	o clima
+听	tīng	ouço
+同学	tóng xué	colega de classe
+喂	wèi	oi (interjeição)
+我	wǒ	eu
+我们	wǒ men	nós
+五	wǔ	fives
+喜欢	xǐ huan	gostar
+下	xià	sob
+下午	xià wǔ	a tarde
+下雨	xià yǔ	chuva
+先生	xiān sheng	sr
+现在	xiàn zài	agora mesmo
+想	xiǎng	saudades
+小	xiǎo	pequeno
+小姐	xiǎo jie	senhorita
+些	xiē	alguns
+写	xiě	escrever
+谢谢	xiè xie	obrigado
+星期	xīng qī	semana
+学生	xué sheng	aluna
+学习	xué xí	aprender
+学校	xué xiào	escola
+一	yī	1
+一点儿	yī diǎn er	um pouco
+医生	yī shēng	doutores
+医院	yī yuàn	hospital
+衣服	yī fu	roupas
+椅子	yǐ zi	cadeira
+有	yǒu	ter
+月	yuè	mês
+再见	zài jiàn	adeus
+在	zài	no
+怎么	zěn me	como
+怎么样	zěn me yàng	que tal isso
+这	zhè	isto
+中国	zhōng guó	china
+中午	zhōng wǔ	meio dia
+住	zhù	viver
+桌子	zhuō zi	tabela
+字	zì	palavra
+昨天	zuó tiān	ontem
+做	zuò	faz
+坐	zuò	sentar

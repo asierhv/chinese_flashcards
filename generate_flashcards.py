@@ -14,7 +14,7 @@ FONT_NAME = "NotoSansSC"
 # FONT_PATH = "NotoSerifSC-Regular.ttf"
 # FONT_NAME = "NotoSerifSC"
 
-LANGUAGE = "es"
+LANGUAGE = "ar"
 
 # PAGESIZE = "A3"
 PAGESIZE = "A4"
@@ -62,9 +62,8 @@ def parse_file(file_path):
     entries = []
     with open(file_path, 'r', encoding='utf-8') as f:
         lines = f.read().strip().split('\n')
-        for i in range(0, len(lines), 2):
-            hanzi = lines[i].strip()
-            pinyin, meaning = re.split(r'\s{2,}', lines[i + 1].strip(), maxsplit=1)
+        for line in lines:
+            hanzi, pinyin, meaning = line.split('\t')
             entries.append((hanzi, pinyin, meaning))
     return entries
 
@@ -191,11 +190,9 @@ def wrap_text(text, max_width, font_size):
 
 if __name__ == "__main__":
     for lvl in range(1, 7):
-        input_file = f"./TXT/HSK{lvl}_{LANGUAGE}.txt"
-        output_pdf = f"./PDF-{PAGESIZE}/HSK{lvl}_{LANGUAGE}_flashcards_{PAGESIZE}.pdf"
-        if not os.path.exists(FONT_PATH):
-            print(f"ERROR: Can't find the font {FONT_PATH}")
-        else:
-            entries = parse_file(input_file)
-            create_flashcards_pdf(entries, output_pdf, lvl)
-            print(f"PDF generated: {output_pdf}")
+        input_file = f"./txt/{LANGUAGE}/hsk_{lvl}_{LANGUAGE}.txt"
+        output_pdf = f"./pdf/{PAGESIZE}/{LANGUAGE}/hsk_{lvl}_{LANGUAGE}_{PAGESIZE}_flashcards.pdf"
+        os.makedirs(os.path.split(output_pdf)[0],exist_ok=True)
+        entries = parse_file(input_file)
+        create_flashcards_pdf(entries, output_pdf, lvl)
+        print(f"PDF generated: {output_pdf}")

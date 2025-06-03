@@ -1,0 +1,300 @@
+啊	a	뭐
+阿姨	ā yí	이모
+矮	ǎi	짧은
+爱好	ài hào	취미
+安静	ān jìng	조용히 해
+把	bǎ	놓다
+搬	bān	움직임
+班	bān	수업
+办法	bàn fǎ	방법
+办公室	bàn gōng shì	사무실
+半	bàn	절반
+帮忙	bāng máng	도움
+包	bāo	꾸러미
+饱	bǎo	완전한
+北方	běi fāng	북쪽
+被	bèi	있다
+鼻子	bí zi	코
+比较	bǐ jiào	비교
+比赛	bǐ sài	경기
+笔记本	bǐ jì běn	공책
+必须	bì xū	해야
+变化	biàn huà	종류
+别人	bié rén	다른 사람
+冰箱	bīng xiāng	냉장고
+不但…而且…	bù dàn …ér qiě …	뿐만 아니라 ...
+菜单	cài dān	메뉴
+参加	cān jiā	참가하다
+草	cǎo	잔디
+层	céng	바닥
+差	chà	차
+超市	chāo shì	슈퍼마켓
+衬衫	chèn shān	셔츠
+城市	chéng shì	시티
+成绩	chéng jì	성적
+迟到	chí dào	늦은
+除了	chú le	와는 별개로
+船	chuán	나룻배
+春	chūn	봄
+词典	cí diǎn	사전
+聪明	cōng ming	영리한
+打扫	dǎ sǎo	깨끗한
+打算	dǎ suàn	의도하다
+带	dài	밴드
+担心	dān xīn	걱정
+蛋糕	dàn gāo	케이크
+当然	dāng rán	물론이야
+地	de	그라운드 (입자)
+灯	dēng	빛
+地方	dì fang	현지
+地铁	dì tiě	지하철
+地图	dì tú	지도
+电梯	diàn tī	엘리베이터
+电子邮件	diàn zǐ yóu jiàn	이메일
+东	dōng	동쪽
+冬	dōng	겨울
+动物	dòng wù	동물
+短	duǎn	짧은
+段	duàn	분절
+锻炼	duàn liàn	운동하다
+多么	duō me	어떻게
+饿	è a	배고픈
+耳朵	ěr duo	귀
+发	fā	머리
+发烧	fā shāo	발열
+发现	fā xiàn	찾기
+方便	fāng biàn	편의
+放	fàng	놓다
+放心	fàng xīn	안심하세요
+分	fēn	분
+复习	fù xí	리뷰
+附近	fù jìn	근처
+干净	gān jìng	깨끗한
+感冒	gǎn mào	춥다
+感兴趣	gǎn xìng qù	관심
+刚才	gāng cái	방금
+个子	gè zi	긴
+根据	gēn jù	에 따르면
+跟	gēn	와
+更	gèng	더
+公斤	gōng jīn	킬로그램
+公园	gōng yuán	공원
+故事	gù shi	이야기
+刮风	guā fēng	깜짝 놀란
+关	guān	끄다
+关系	guān xì	관계
+关心	guān xīn	관심사
+关于	guān yú	의 위에
+国家	guó jiā	국가
+过	guò	합격 (동사)
+过去	guò qu	과거
+还是	hái shì	여전히
+害怕	hài pà	깜짝 놀란
+黑板	hēi bǎn	칠판
+后来	hòu lái	나중
+护照	hù zhào	여권
+花	huā	꽃 (동사)
+花	huā	꽃 (명사)
+画	huà	페인트 등
+坏	huài	나쁜
+欢迎	huān yíng	어서 오십시오
+环境	huán jìng	주위
+还	huán	반환 (동사)
+换	huàn	변화
+黄河	huáng hé	황하
+回答	huí dá	댓글
+会议	huì yì	모임
+或者	huò zhě	또는
+几乎	jī hū	거의
+机会	jī huì	기회
+极	jí	폴
+季节	jì jié	시즌
+记得	jì de	생각해 내다
+检查	jiǎn chá	시험
+简单	jiǎn dān	단순한
+健康	jiàn kāng	건강
+见面	jiàn miàn	만나다
+讲	jiǎng	말하다
+教	jiào	가르치다
+脚	jiǎo	발
+角	jiǎo	각도
+接	jiē	픽업
+街道	jiē dào	거리
+结婚	jié hūn	얻다
+结束	jié shù	종료
+节目	jié mù	프로그램
+节日	jié rì	제전
+解决	jiě jué	풀다
+借	jiè	빌다
+经常	jīng cháng	자주
+经过	jīng guò	후
+经理	jīng lǐ	매니저
+久	jiǔ	긴
+旧	jiù	낡은
+句子	jù zi	문장
+决定	jué dìng	결정
+可爱	kě ài	아름다운
+渴	kě	물기 없는
+刻	kè	새겨진
+客人	kè rén	손님들
+空调	kōng tiáo	공기 조절
+口	kǒu	입
+哭	kū	울음 소리
+裤子	kù zi	바지
+筷子	kuài zi	젓가락
+蓝	lán	푸른
+老	lǎo	낡은
+离开	lí kāi	저리가
+礼物	lǐ wù	선물
+历史	lì shǐ	역사
+脸	liǎn	얼굴
+练习	liàn xí	운동
+辆	liàng	차량
+聊天	liáo tiān	채팅하기
+了解	liǎo jiě	이해하기 위해
+邻居	lín jū	이웃 사람
+留学	liú xué	외국에서 공부하다
+楼	lóu	바닥
+绿	lv4	초록
+马	mǎ	말
+马上	mǎ shàng	바로
+满意	mǎn yì	만족감
+帽子	mào zi	모자
+米	mǐ	미터
+面包	miàn bāo	빵
+明白	míng bai	이해하다
+拿	ná	갖다
+奶奶	nǎi nai	할머니
+南	nán	남쪽
+难	nán	어려운
+难过	nán guò	슬퍼
+年级	nián jí	등급
+年轻	nián qīng	젊은
+鸟	niǎo	새
+努力	nǔ lì	열심히 일하다
+爬山	pá shān	등산
+盘子	pán zi	플레이트
+胖	pàng	지방
+啤酒	pí jiǔ	맥주
+皮鞋	pí xié	가죽 신발
+瓶子	píng zi	병
+其实	qí shí	사실로
+其他	qí tā	다른
+奇怪	qí guài	이상한
+骑	qí	타기
+起飞	qǐ fēi	벗다
+起来	qǐ lái	일어나
+清楚	qīng chu	맑은
+请假	qǐng jià	휴가 요청
+秋	qiū	가을
+裙子	qún zi	치마
+然后	rán hòu	그때
+热情	rè qíng	열광
+认为	rèn wéi	생각한다
+认真	rèn zhēn	진지한
+容易	róng yì	쉬운
+如果	rú guǒ	경우에
+伞	sǎn	우산
+上网	shàng wǎng	온라인으로
+声音	shēng yīn	소리
+生气	shēng qì	화난
+世界	shì jiè	세계
+试	shì	테스트
+瘦	shòu	얇은
+叔叔	shū shu	삼촌
+舒服	shū fu	편안
+数学	shù xué	수학
+树	shù	나무
+刷牙	shuā yá	양치질
+双	shuāng	더블
+水平	shuǐ píng	수평
+司机	sī jī	운전사
+太阳	tài yáng	태양
+特别	tè bié	특히
+疼	téng	고통
+提高	tí gāo	돌리다
+体育	tǐ yù	체육
+甜	tián	단
+条	tiáo	조
+同事	tóng shì	동료
+同意	tóng yì	동의하다
+头发	tóu fa	머리
+突然	tū rán	갑자기
+图书馆	tú shū guǎn	도서관
+腿	tuǐ	다리
+完成	wán chéng	수행하다
+碗	wǎn	사발
+万	wàn	만
+忘记	wàng jì	잊다
+为	wèi	...에 대한
+为了	wèi le	하기 위해
+位	wèi	비트
+文化	wén huà	문화
+西	xī	oo
+习惯	xí guàn	습관
+洗手间	xǐ shǒu jiān	화장실
+洗澡	xǐ zǎo	목욕 해
+夏	xià	여름
+先	xiān	먼저
+相信	xiāng xìn	믿다
+香蕉	xiāng jiāo	바나나
+像	xiàng	처럼
+向	xiàng	...에
+小心	xiǎo xīn	조심해
+校长	xiào zhǎng	주요한
+新闻	xīn wén	뉴스
+新鲜	xīn xiān	신선한
+信用卡	xìn yòng kǎ	신용 카드
+行李箱	xíng lǐ xiāng	트렁크
+熊猫	xióng māo	팬더
+需要	xū yào	필요한 것
+选择	xuǎn zé	고르다
+要求	yāo qiú	청구
+爷爷	yé ye	할아버지
+一直	yī zhí	항상
+一定	yí dìng	확실히
+一共	yī gòng	합계
+一会儿	yī huì er	잠시
+一样	yī yàng	같은
+以前	yǐ qián	전에
+一般	yī bān	일반
+一边	yī biān	한쪽
+音乐	yīn yuè	음악
+银行	yín háng	은행
+饮料	yǐn liào	음주
+应该	yīng gāi	할까요
+影响	yǐng xiǎng	영향
+用	yòng	사용하다
+游戏	yóu xì	경기
+有名	yǒu míng	유명한
+又	yòu	또한
+遇到	yù dào	교전
+元	yuán	원
+愿意	yuàn yì	자발적인
+月亮	yuè liang	달
+越	yuè	더
+站	zhàn	역
+张	zhāng	장
+长	zhǎng	long (동사)
+着急	zháo jí	불안
+照顾	zhào gu	을 돌보다
+照片	zhào piàn	사진
+照相机	zhào xiàng jī	카메라
+只	zhǐ	만 (부사)
+只	zhǐ	만 (수량 자)
+只有…才…	zhǐ yǒu …cái …	뿐...
+中间	zhōng jiān	중급
+中文	zhōng wén	중국말
+终于	zhōng yú	마침내
+种	zhǒng	종 (정량 자)
+重要	zhòng yào	중대한
+周末	zhōu mò	주말
+主要	zhǔ yào	본관
+注意	zhù yì	노트
+自己	zì jǐ	자신
+自行车	zì xíng chē	자전거
+总是	zǒng shì	항상
+嘴	zuǐ	입
+最后	zuì hòu	마침내
+最近	zuì jìn	충적세
+作业	zuò yè	조작

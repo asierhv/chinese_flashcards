@@ -1,0 +1,150 @@
+吧	ba	バー
+白	bái	白い
+百	bǎi	百
+帮助	bāng zhù	助けて
+报纸	bào zhǐ	新聞
+比	bǐ	比
+别	bié	しない
+宾馆	bīn guǎn	ホテル
+长	cháng	長い（形容詞）
+唱歌	chàng gē	歌うために
+出	chū	でる
+穿	chuān	着る
+次	cì	タイムズ
+从	cóng	から
+错	cuò	違う
+打篮球	dǎ lán qiú	バスケットボールをする
+大家	dà jiā	全員
+到	dào	に
+得	de	取得（粒子）
+等	děng	待つ（動詞）
+弟弟	dì di	弟
+第一	dì yī	最初
+懂	dǒng	理解する
+对	duì	右（前置）
+对	duì	はい（形容詞）
+房间	fáng jiān	ルーム
+非常	fēi cháng	とても
+服务员	fú wù yuán	ウェイター
+高	gāo	高い
+告诉	gào su	教えて
+哥哥	gē ge	兄
+给	gěi	与える
+公共汽车	gōng gòng qì chē	バス
+公司	gōng sī	会社
+贵	guì	高価な
+过	guo	パス（粒子）
+孩子	hái zi	子
+还	hái	また（副詞）
+好吃	hǎo chī	食べて良い
+黑	hēi	黒
+红	hóng	赤
+火车站	huǒ chē zhàn	鉄道駅
+机场	jī chǎng	空港
+鸡蛋	jī dàn	卵
+件	jiàn	ピース
+教室	jiào shì	教室
+姐姐	jiě jie	シスター
+介绍	jiè shào	前書き
+近	jìn	近く
+进	jìn	前進
+就	jiù	オン
+觉得	jué de	感じる
+咖啡	kā fēi	コーヒー
+开始	kāi shǐ	開始
+考试	kǎo shì	検査
+可能	kě néng	五月
+可以	kě yǐ	できる
+课	kè	クラス
+快	kuài	速い
+快乐	kuài lè	ハッピー
+累	lèi	疲れた
+离	lí	から
+两	liǎng	二
+零	líng	ゼロ
+路	lù	道路
+旅游	lv3 yóu	観光
+卖	mài	売る
+慢	màn	スロー
+忙	máng	忙しい
+每	měi	各
+妹妹	mèi mei	妹
+门	mén	ドア
+面条	miàn tiáo	麺
+男	nán	男性
+您	nín	君は
+牛奶	niú nǎi	ミルク
+女	nǚ	女性
+旁边	páng biān	の隣に
+跑步	pǎo bù	実行
+便宜	pián yi	安いです
+票	piào	チケット
+妻子	qī zi	妻
+起床	qǐ chuáng	起きる
+千	qiān	千
+铅笔	qiān bǐ	鉛筆
+晴	qíng	晴れ
+去年	qù nián	昨年
+让	ràng	しましょう
+日	rì	日
+上班	shàng bān	働くために
+身体	shēn tǐ	体
+生病	shēng bìng	病気
+生日	shēng rì	お誕生日
+时间	shí jiān	時間
+事情	shì qing	事
+手表	shǒu biǎo	見る
+手机	shǒu jī	携帯電話
+说话	shuō huà	話す
+送	sòng	与える
+虽然…但是…	suī rán …dàn shì …	しかし…
+它	tā	それ
+踢足球	tī zú qiú	サッカーをする
+题	tí	質問
+跳舞	tiào wǔ	ダンシング
+外	wài	アウター
+完	wán	終了
+玩	wán	演奏する
+晚上	wǎn shang	夜に
+往	wǎng	に
+为什么	wèi shén me	なぜ
+问	wèn	尋ねる
+问题	wèn tí	問題
+希望	xī wàng	望む
+西瓜	xī guā	スイカ
+洗	xǐ	洗う
+小时	xiǎo shí	時間
+笑	xiào	笑い
+新	xīn	新着
+姓	xìng	名前
+休息	xiū xi	残り
+雪	xuě	雪
+颜色	yán sè	色
+眼睛	yǎn jing	眼
+羊肉	yáng ròu	子羊
+药	yào	薬
+要	yào	欲しいです
+也	yě	そしてまた
+一下	yī xià	少し
+已经	yǐ jīng	既に
+一起	yī qǐ	一緒
+意思	yì si	意味
+因为…所以…	yīn wèi …suǒ yǐ …	したがって…
+阴	yīn	陰
+游泳	yóu yǒng	泳ぐ
+右边	yòu bian	正しい
+鱼	yú	魚
+远	yuǎn	はるかに
+运动	yùn dòng	移動
+再	zài	再び
+早上	zǎo shang	朝
+丈夫	zhàng fu	夫
+找	zhǎo	検索
+着	zhe	と
+真	zhēn	true
+正在	zhèng zài	であること
+知道	zhī dào	知っている
+准备	zhǔn bèi	準備ができました
+走	zǒu	行く
+最	zuì	最も
+左边	zuǒ bian	左

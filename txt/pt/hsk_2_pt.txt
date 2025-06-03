@@ -1,0 +1,150 @@
+吧	ba	barra
+白	bái	branco
+百	bǎi	cem
+帮助	bāng zhù	socorro
+报纸	bào zhǐ	jornal
+比	bǐ	razão
+别	bié	não
+宾馆	bīn guǎn	hotel
+长	cháng	longo (adjetivo)
+唱歌	chàng gē	cantar
+出	chū	fora
+穿	chuān	vestir
+次	cì	vezes
+从	cóng	de
+错	cuò	errado
+打篮球	dǎ lán qiú	jogar basquete
+大家	dà jiā	todos
+到	dào	para
+得	de	obter (partícula)
+等	děng	espere (verbo)
+弟弟	dì di	irmão mais novo
+第一	dì yī	o primeiro
+懂	dǒng	compreendo
+对	duì	direita (preposição)
+对	duì	sim (adjetivo)
+房间	fáng jiān	quarto
+非常	fēi cháng	muitíssimo
+服务员	fú wù yuán	garçom
+高	gāo	alto
+告诉	gào su	contar
+哥哥	gē ge	irmão
+给	gěi	dar
+公共汽车	gōng gòng qì chē	ônibus
+公司	gōng sī	a empresa
+贵	guì	caro
+过	guo	passe (partícula)
+孩子	hái zi	criança
+还	hái	também (advérbio)
+好吃	hǎo chī	bom para comer
+黑	hēi	preto
+红	hóng	vermelho
+火车站	huǒ chē zhàn	estação de trem
+机场	jī chǎng	aeroporto
+鸡蛋	jī dàn	ovo
+件	jiàn	peças
+教室	jiào shì	sala de aula
+姐姐	jiě jie	irmã
+介绍	jiè shào	introdução
+近	jìn	perto
+进	jìn	avançar
+就	jiù	em
+觉得	jué de	sentir
+咖啡	kā fēi	café
+开始	kāi shǐ	começar
+考试	kǎo shì	exame
+可能	kě néng	maio
+可以	kě yǐ	pode
+课	kè	classe
+快	kuài	velozes
+快乐	kuài lè	feliz
+累	lèi	cansado
+离	lí	de
+两	liǎng	dois
+零	líng	zero
+路	lù	estrada
+旅游	lv3 yóu	turismo
+卖	mài	vender
+慢	màn	lento
+忙	máng	ocupado
+每	měi	cada
+妹妹	mèi mei	irmã mais nova
+门	mén	porta
+面条	miàn tiáo	macarrão
+男	nán	masculino
+您	nín	vocês
+牛奶	niú nǎi	leite
+女	nǚ	fêmea
+旁边	páng biān	próximo a
+跑步	pǎo bù	corre
+便宜	pián yi	barato
+票	piào	bilhete
+妻子	qī zi	esposa
+起床	qǐ chuáng	levante-se
+千	qiān	mil
+铅笔	qiān bǐ	lápis
+晴	qíng	claro
+去年	qù nián	ano passado
+让	ràng	deixei
+日	rì	dia
+上班	shàng bān	trabalhar
+身体	shēn tǐ	corpo
+生病	shēng bìng	doente
+生日	shēng rì	aniversário
+时间	shí jiān	tempo
+事情	shì qing	coisa
+手表	shǒu biǎo	ver
+手机	shǒu jī	celular
+说话	shuō huà	falar
+送	sòng	doar
+虽然…但是…	suī rán …dàn shì …	no entanto, embora…
+它	tā	isto
+踢足球	tī zú qiú	jogar futebol
+题	tí	questão
+跳舞	tiào wǔ	dançando
+外	wài	exterior
+完	wán	terminar
+玩	wán	toque
+晚上	wǎn shang	à noite
+往	wǎng	para
+为什么	wèi shén me	porque
+问	wèn	perguntar
+问题	wèn tí	problema
+希望	xī wàng	esperança
+西瓜	xī guā	melancia
+洗	xǐ	lavar
+小时	xiǎo shí	hora
+笑	xiào	rir
+新	xīn	novo
+姓	xìng	nome
+休息	xiū xi	descansar
+雪	xuě	neve
+颜色	yán sè	cor
+眼睛	yǎn jing	olho
+羊肉	yáng ròu	cordeiro
+药	yào	remédio
+要	yào	quer
+也	yě	e também
+一下	yī xià	um pouco
+已经	yǐ jīng	já
+一起	yī qǐ	juntos
+意思	yì si	significado
+因为…所以…	yīn wèi …suǒ yǐ …	porque portanto ...
+阴	yīn	yin
+游泳	yóu yǒng	nadar
+右边	yòu bian	direito
+鱼	yú	peixe
+远	yuǎn	longe
+运动	yùn dòng	movimento
+再	zài	novamente
+早上	zǎo shang	manhã
+丈夫	zhàng fu	marido
+找	zhǎo	encontrar
+着	zhe	com
+真	zhēn	verdadeiro
+正在	zhèng zài	ser
+知道	zhī dào	conhecer
+准备	zhǔn bèi	pronto
+走	zǒu	vai
+最	zuì	a maioria
+左边	zuǒ bian	esquerda

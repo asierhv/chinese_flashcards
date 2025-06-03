@@ -1,0 +1,150 @@
+吧	ba	bar
+白	bái	weiß
+百	bǎi	hundert
+帮助	bāng zhù	hilfe
+报纸	bào zhǐ	zeitung
+比	bǐ	verhältnis
+别	bié	unterlassen sie
+宾馆	bīn guǎn	hotel
+长	cháng	lang (adjektiv)
+唱歌	chàng gē	singen
+出	chū	aus
+穿	chuān	tragen
+次	cì	mal
+从	cóng	von
+错	cuò	falsch
+打篮球	dǎ lán qiú	basketball spielen
+大家	dà jiā	jedermann
+到	dào	zu
+得	de	holen sie sich (partikel)
+等	děng	warte (verb)
+弟弟	dì di	kleiner bruder
+第一	dì yī	der erste
+懂	dǒng	verstehen
+对	duì	richtig (präposition)
+对	duì	ja (adjektiv)
+房间	fáng jiān	zimmer
+非常	fēi cháng	sehr viel
+服务员	fú wù yuán	bedienung
+高	gāo	hoch
+告诉	gào su	sagen
+哥哥	gē ge	bruder
+给	gěi	geben
+公共汽车	gōng gòng qì chē	bus
+公司	gōng sī	die firma
+贵	guì	teuer
+过	guo	pass (partikel)
+孩子	hái zi	kind
+还	hái	auch (adverb)
+好吃	hǎo chī	gut zu essen
+黑	hēi	schwarz
+红	hóng	rot
+火车站	huǒ chē zhàn	bahnhof
+机场	jī chǎng	flughafen
+鸡蛋	jī dàn	ei
+件	jiàn	stücke
+教室	jiào shì	klassenzimmer
+姐姐	jiě jie	schwester
+介绍	jiè shào	einführung
+近	jìn	nahe
+进	jìn	voraus
+就	jiù	auf
+觉得	jué de	gefühl
+咖啡	kā fēi	kaffee
+开始	kāi shǐ	start
+考试	kǎo shì	untersuchung
+可能	kě néng	kann
+可以	kě yǐ	können
+课	kè	klasse
+快	kuài	schnell
+快乐	kuài lè	glücklich
+累	lèi	müde
+离	lí	von
+两	liǎng	zwei
+零	líng	null
+路	lù	straße
+旅游	lv3 yóu	tourismus
+卖	mài	verkaufen
+慢	màn	langsam
+忙	máng	beschäftigt
+每	měi	jeder
+妹妹	mèi mei	jüngere schwester
+门	mén	tür
+面条	miàn tiáo	nudeln
+男	nán	männlich
+您	nín	sie
+牛奶	niú nǎi	milch
+女	nǚ	weiblich
+旁边	páng biān	neben an
+跑步	pǎo bù	lauf
+便宜	pián yi	billig
+票	piào	fahrkarte
+妻子	qī zi	ehefrau
+起床	qǐ chuáng	aufstehen
+千	qiān	tausend
+铅笔	qiān bǐ	bleistift
+晴	qíng	klar
+去年	qù nián	letztes jahr
+让	ràng	lassen
+日	rì	tag
+上班	shàng bān	arbeiten
+身体	shēn tǐ	körper
+生病	shēng bìng	krank
+生日	shēng rì	geburtstag
+时间	shí jiān	zeit
+事情	shì qing	ding
+手表	shǒu biǎo	uhr
+手机	shǒu jī	handy
+说话	shuō huà	sprechen
+送	sòng	hergeben
+虽然…但是…	suī rán …dàn shì …	wie auch immer, obwohl…
+它	tā	es
+踢足球	tī zú qiú	spiel fußball
+题	tí	frage
+跳舞	tiào wǔ	tanzen
+外	wài	äußere
+完	wán	fertig
+玩	wán	abspielen
+晚上	wǎn shang	nachts
+往	wǎng	zu
+为什么	wèi shén me	warum
+问	wèn	fragen
+问题	wèn tí	problem
+希望	xī wàng	hoffnung
+西瓜	xī guā	wassermelone
+洗	xǐ	waschen
+小时	xiǎo shí	stunde
+笑	xiào	lachen
+新	xīn	neu
+姓	xìng	name
+休息	xiū xi	sich ausruhen
+雪	xuě	schnee
+颜色	yán sè	farbe
+眼睛	yǎn jing	auge
+羊肉	yáng ròu	lamm
+药	yào	medizin
+要	yào	wollen
+也	yě	und auch
+一下	yī xià	ein bisschen
+已经	yǐ jīng	bereits
+一起	yī qǐ	zusammen
+意思	yì si	bedeutung
+因为…所以…	yīn wèi …suǒ yǐ …	weil deshalb…
+阴	yīn	yin
+游泳	yóu yǒng	schwimmen
+右边	yòu bian	richtig
+鱼	yú	fisch
+远	yuǎn	weit
+运动	yùn dòng	bewegung
+再	zài	nochmal
+早上	zǎo shang	morgen
+丈夫	zhàng fu	mann
+找	zhǎo	finden
+着	zhe	mit
+真	zhēn	wahr
+正在	zhèng zài	sein
+知道	zhī dào	kennt
+准备	zhǔn bèi	bereit
+走	zǒu	gehen
+最	zuì	die meisten
+左边	zuǒ bian	links

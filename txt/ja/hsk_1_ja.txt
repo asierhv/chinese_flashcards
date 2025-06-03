@@ -1,0 +1,150 @@
+爱	ài	愛する
+八	bā	8
+爸爸	bà ba	お父さん
+杯子	bēi zi	カップ
+北京	běi jīng	北京
+本	běn	この
+不客气	bú kè qi	どういたしまして
+不	bù	しない
+菜	cài	皿
+茶	chá	お茶
+吃	chī	食べる
+出租车	chū zū chē	タクシー
+打电话	dǎ diàn huà	コール
+大	dà	大きい
+的	de	の
+点	diǎn	ポイント
+电脑	diàn nǎo	コンピューター
+电视	diàn shì	テレビ
+电影	diàn yǐng	フィルム
+东西	dōng xi	事
+都	dōu	すべて
+读	dú	読んだ
+对不起	duì bu qǐ	ごめんなさい
+多	duō	たくさんの
+多少	duō shǎo	幾つ
+儿子	ér zi	息子
+二	èr	二
+饭店	fàn diàn	レストラン
+飞机	fēi jī	航空機
+分钟	fēn zhōng	分
+高兴	gāo xìng	ハッピー
+个	gè	a
+工作	gōng zuò	仕事
+狗	gǒu	犬
+汉语	hàn yǔ	中国語
+好	hǎo	いいです
+号	hào	数
+喝	hē	ドリンク
+和	hé	と
+很	hěn	非常に
+后面	hòu miàn	後ろに
+回	huí	戻る
+会	huì	会議
+几	jǐ	いくつか
+家	jiā	家族
+叫	jiào	コール
+今天	jīn tiān	今日では
+九	jiǔ	ナイン
+开	kāi	開いた
+看	kàn	見て
+看见	kàn jiàn	見る
+块	kuài	ピース
+来	lái	来て
+老师	lǎo shī	先生
+了	le	アップ
+冷	lěng	コールド
+里	lǐ	に
+六	liù	6
+吗	ma	それは...ですか
+妈妈	mā ma	ママ
+买	mǎi	購入
+猫	māo	ネコ
+没关系	méi guān xi	大丈夫です
+没有	méi yǒu	番号
+米饭	mǐ fàn	ご飯
+名字	míng zi	ファーストネーム
+明天	míng tiān	明日
+哪	nǎ	どこ
+哪儿	nǎ er	どこ
+那	nà	それ
+呢	ne	何
+能	néng	できる
+你	nǐ	君は
+年	nián	年
+女儿	nǚ ér	娘
+朋友	péng you	友達
+漂亮	piào liang	可愛い
+苹果	píng guǒ	林檎
+七	qī	セブン
+前面	qián miàn	前面
+钱	qián	お金
+请	qǐng	お願いします
+去	qù	一緒に行く
+热	rè	熱
+人	rén	人
+认识	rèn shi	理解
+三	sān	三
+商店	shāng diàn	お店
+上	shàng	オン
+上午	shàng wǔ	朝
+少	shǎo	もっと少なく
+谁	shéi	who
+什么	shén me	何
+十	shí	十
+时候	shí hou	時間
+是	shì	はい
+书	shū	本
+水	shuǐ	水
+水果	shuǐguǒ	フルーツ
+睡觉	shuì jiào	寝なさい
+说	shuō	いう
+四	sì	四
+岁	suì	歳
+他	tā	彼
+她	tā	彼女はそうだった
+太	tài	あまりにも
+天气	tiān qì	天候
+听	tīng	聴く
+同学	tóng xué	同級生
+喂	wèi	こんにちは（介入）
+我	wǒ	私
+我们	wǒ men	我々
+五	wǔ	ファイブ
+喜欢	xǐ huan	お気に入り
+下	xià	下
+下午	xià wǔ	午後に
+下雨	xià yǔ	雨
+先生	xiān sheng	氏
+现在	xiàn zài	ちょうど今
+想	xiǎng	あなたがいなくて寂しいです
+小	xiǎo	小さい
+小姐	xiǎo jie	お嬢
+些	xiē	いくつか
+写	xiě	書く
+谢谢	xiè xie	ありがとうございました
+星期	xīng qī	週間
+学生	xué sheng	学生
+学习	xué xí	学ぶ
+学校	xué xiào	学校
+一	yī	1
+一点儿	yī diǎn er	少し
+医生	yī shēng	医者
+医院	yī yuàn	病院
+衣服	yī fu	服
+椅子	yǐ zi	椅子
+有	yǒu	持ってる
+月	yuè	月
+再见	zài jiàn	さようなら
+在	zài	に
+怎么	zěn me	どうやって
+怎么样	zěn me yàng	それはどうですか
+这	zhè	この
+中国	zhōng guó	中国
+中午	zhōng wǔ	正午
+住	zhù	住む
+桌子	zhuō zi	テーブル
+字	zì	語
+昨天	zuó tiān	昨日
+做	zuò	行う
+坐	zuò	座る

@@ -1,0 +1,300 @@
+啊	a	何
+阿姨	ā yí	叔母
+矮	ǎi	ショート
+爱好	ài hào	趣味
+安静	ān jìng	静かにして
+把	bǎ	置く
+搬	bān	移動する
+班	bān	クラス
+办法	bàn fǎ	方法
+办公室	bàn gōng shì	オフィス
+半	bàn	ハーフ
+帮忙	bāng máng	助けて
+包	bāo	パッケージ
+饱	bǎo	フル
+北方	běi fāng	北
+被	bèi	ありなさい
+鼻子	bí zi	鼻
+比较	bǐ jiào	比較する
+比赛	bǐ sài	ゲーム
+笔记本	bǐ jì běn	ノート
+必须	bì xū	する必要がある
+变化	biàn huà	バラエティ
+别人	bié rén	他の人
+冰箱	bīng xiāng	冷蔵庫
+不但…而且…	bù dàn …ér qiě …	だけでなく…
+菜单	cài dān	メニュー
+参加	cān jiā	参加する
+草	cǎo	草
+层	céng	床
+差	chà	差
+超市	chāo shì	スーパーマーケット
+衬衫	chèn shān	シャツ
+城市	chéng shì	市
+成绩	chéng jì	グレード
+迟到	chí dào	遅い
+除了	chú le	の他に
+船	chuán	フェリー
+春	chūn	春
+词典	cí diǎn	辞書
+聪明	cōng ming	賢い
+打扫	dǎ sǎo	掃除
+打算	dǎ suàn	意図する
+带	dài	バンド
+担心	dān xīn	心配
+蛋糕	dàn gāo	ケーキ
+当然	dāng rán	もちろん
+地	de	地面（粒子）
+灯	dēng	光
+地方	dì fang	地元
+地铁	dì tiě	地下鉄
+地图	dì tú	地図
+电梯	diàn tī	エレベーター
+电子邮件	diàn zǐ yóu jiàn	eメール
+东	dōng	東
+冬	dōng	冬
+动物	dòng wù	動物
+短	duǎn	ショート
+段	duàn	セグメント
+锻炼	duàn liàn	いい結果になる
+多么	duō me	どうやって
+饿	è a	空腹
+耳朵	ěr duo	耳
+发	fā	ヘア
+发烧	fā shāo	熱
+发现	fā xiàn	検索
+方便	fāng biàn	利便性
+放	fàng	置く
+放心	fàng xīn	安心してください
+分	fēn	分
+复习	fù xí	レビュー
+附近	fù jìn	近所の
+干净	gān jìng	掃除
+感冒	gǎn mào	コールド
+感兴趣	gǎn xìng qù	に興味がある
+刚才	gāng cái	ちょうど今
+个子	gè zi	背が高い
+根据	gēn jù	による
+跟	gēn	と
+更	gèng	もっと
+公斤	gōng jīn	kg
+公园	gōng yuán	パーク
+故事	gù shi	物語
+刮风	guā fēng	風が強い
+关	guān	消す
+关系	guān xì	関係
+关心	guān xīn	懸念
+关于	guān yú	オン
+国家	guó jiā	国
+过	guò	パス（動詞）
+过去	guò qu	過去
+还是	hái shì	まだです
+害怕	hài pà	怖い
+黑板	hēi bǎn	黒板
+后来	hòu lái	後で
+护照	hù zhào	パスポート
+花	huā	花（動詞）
+花	huā	花（名詞）
+画	huà	ペインティング
+坏	huài	悪い
+欢迎	huān yíng	ようこそ
+环境	huán jìng	周囲
+还	huán	戻る（動詞）
+换	huàn	変化する
+黄河	huáng hé	黄河
+回答	huí dá	応答
+会议	huì yì	会議
+或者	huò zhě	または
+几乎	jī hū	ほとんど
+机会	jī huì	機会
+极	jí	ポール
+季节	jì jié	シーズン
+记得	jì de	覚えておいてください
+检查	jiǎn chá	試験
+简单	jiǎn dān	シンプル
+健康	jiàn kāng	健康
+见面	jiàn miàn	会う
+讲	jiǎng	話す
+教	jiào	教える
+脚	jiǎo	足
+角	jiǎo	角度
+接	jiē	選び出す
+街道	jiē dào	通り
+结婚	jié hūn	結婚する
+结束	jié shù	終わり
+节目	jié mù	プログラム
+节日	jié rì	フェスティバル
+解决	jiě jué	解決する
+借	jiè	かりて
+经常	jīng cháng	しばしば
+经过	jīng guò	後
+经理	jīng lǐ	マネージャー
+久	jiǔ	長いです
+旧	jiù	古い
+句子	jù zi	文
+决定	jué dìng	決定する
+可爱	kě ài	美しい
+渴	kě	喉が渇いた
+刻	kè	刻印
+客人	kè rén	ゲスト
+空调	kōng tiáo	空調
+口	kǒu	口
+哭	kū	泣く
+裤子	kù zi	パンツ
+筷子	kuài zi	箸
+蓝	lán	青い
+老	lǎo	古い
+离开	lí kāi	どこかに行って
+礼物	lǐ wù	贈り物
+历史	lì shǐ	歴史
+脸	liǎn	面
+练习	liàn xí	運動
+辆	liàng	車両
+聊天	liáo tiān	とチャットする
+了解	liǎo jiě	理解するために
+邻居	lín jū	隣人
+留学	liú xué	留学する
+楼	lóu	床
+绿	lv4	緑
+马	mǎ	うま
+马上	mǎ shàng	すぐに
+满意	mǎn yì	満足
+帽子	mào zi	帽子
+米	mǐ	メーター
+面包	miàn bāo	パン
+明白	míng bai	理解する
+拿	ná	取る
+奶奶	nǎi nai	祖母
+南	nán	南
+难	nán	難しい
+难过	nán guò	悲しい
+年级	nián jí	グレード
+年轻	nián qīng	若い
+鸟	niǎo	鳥
+努力	nǔ lì	一生懸命働く
+爬山	pá shān	登山
+盘子	pán zi	プレート
+胖	pàng	太い
+啤酒	pí jiǔ	ビール
+皮鞋	pí xié	革靴
+瓶子	píng zi	ボトル
+其实	qí shí	実際には
+其他	qí tā	その他
+奇怪	qí guài	奇妙な
+骑	qí	ライド
+起飞	qǐ fēi	離陸
+起来	qǐ lái	立ち上がる
+清楚	qīng chu	晴れ
+请假	qǐng jià	休暇を求めます
+秋	qiū	秋
+裙子	qún zi	スカート
+然后	rán hòu	その後
+热情	rè qíng	熱意
+认为	rèn wéi	考える
+认真	rèn zhēn	深刻
+容易	róng yì	簡単
+如果	rú guǒ	万一に備えて
+伞	sǎn	傘
+上网	shàng wǎng	オンライン化する
+声音	shēng yīn	音
+生气	shēng qì	腹を立てて
+世界	shì jiè	世界
+试	shì	テスト
+瘦	shòu	薄い
+叔叔	shū shu	おじさん
+舒服	shū fu	快適
+数学	shù xué	数学
+树	shù	木
+刷牙	shuā yá	歯を磨く
+双	shuāng	ダブル
+水平	shuǐ píng	レベル
+司机	sī jī	運転者
+太阳	tài yáng	太陽
+特别	tè bié	特に
+疼	téng	痛み
+提高	tí gāo	改善する
+体育	tǐ yù	体育
+甜	tián	甘い
+条	tiáo	論文
+同事	tóng shì	同僚
+同意	tóng yì	同意する
+头发	tóu fa	ヘア
+突然	tū rán	突然
+图书馆	tú shū guǎn	図書館
+腿	tuǐ	脚
+完成	wán chéng	実施する
+碗	wǎn	丼鉢
+万	wàn	万
+忘记	wàng jì	忘れる
+为	wèi	ために
+为了	wèi le	のために
+位	wèi	ビット
+文化	wén huà	文化
+西	xī	oo
+习惯	xí guàn	習慣
+洗手间	xǐ shǒu jiān	トイレ
+洗澡	xǐ zǎo	風呂に入る
+夏	xià	夏
+先	xiān	最初
+相信	xiāng xìn	信じる
+香蕉	xiāng jiāo	バナナ
+像	xiàng	お気に入り
+向	xiàng	に
+小心	xiǎo xīn	注意してください
+校长	xiào zhǎng	主要な
+新闻	xīn wén	ニュース
+新鲜	xīn xiān	新鮮な
+信用卡	xìn yòng kǎ	クレジットカード
+行李箱	xíng lǐ xiāng	トランク
+熊猫	xióng māo	パンダ
+需要	xū yào	必要
+选择	xuǎn zé	選択する
+要求	yāo qiú	請求
+爷爷	yé ye	祖父
+一直	yī zhí	常に
+一定	yí dìng	確かに
+一共	yī gòng	合計
+一会儿	yī huì er	しばらく
+一样	yī yàng	同じ
+以前	yǐ qián	前
+一般	yī bān	一般
+一边	yī biān	片側
+音乐	yīn yuè	音楽
+银行	yín háng	バンク
+饮料	yǐn liào	ドリンク
+应该	yīng gāi	すべき
+影响	yǐng xiǎng	影響
+用	yòng	使用する
+游戏	yóu xì	ゲーム
+有名	yǒu míng	有名
+又	yòu	また
+遇到	yù dào	出会い
+元	yuán	元
+愿意	yuàn yì	喜んで
+月亮	yuè liang	月
+越	yuè	もっと
+站	zhàn	駅
+张	zhāng	張
+长	zhǎng	長い（動詞）
+着急	zháo jí	気になる
+照顾	zhào gu	世話をする
+照片	zhào piàn	写真
+照相机	zhào xiàng jī	カメラ
+只	zhǐ	のみ（副詞）
+只	zhǐ	のみ（数量詞）
+只有…才…	zhǐ yǒu …cái …	のみ...
+中间	zhōng jiān	中級
+中文	zhōng wén	中国語
+终于	zhōng yú	やっと
+种	zhǒng	種（定量化）
+重要	zhòng yào	重要
+周末	zhōu mò	週末
+主要	zhǔ yào	メイン
+注意	zhù yì	注意
+自己	zì jǐ	自分
+自行车	zì xíng chē	自転車
+总是	zǒng shì	常に
+嘴	zuǐ	口
+最后	zuì hòu	やっと
+最近	zuì jìn	最近
+作业	zuò yè	操作

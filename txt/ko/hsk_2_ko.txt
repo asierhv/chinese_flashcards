@@ -1,0 +1,150 @@
+吧	ba	바
+白	bái	하얀
+百	bǎi	백
+帮助	bāng zhù	도움
+报纸	bào zhǐ	신문
+比	bǐ	비율
+别	bié	하지 마라
+宾馆	bīn guǎn	호텔
+长	cháng	long (형용사)
+唱歌	chàng gē	노래하다
+出	chū	밖
+穿	chuān	입고 있다
+次	cì	타임스
+从	cóng	에서
+错	cuò	잘못된
+打篮球	dǎ lán qiú	농구를하다
+大家	dà jiā	여러분
+到	dào	에
+得	de	가져 오기 (입자)
+等	děng	기다려 (동사)
+弟弟	dì di	남동생
+第一	dì yī	첫번째
+懂	dǒng	이해하다
+对	duì	오른쪽 (전치사)
+对	duì	예 (형용사)
+房间	fáng jiān	방
+非常	fēi cháng	흠뻑
+服务员	fú wù yuán	웨이터
+高	gāo	높은
+告诉	gào su	텔
+哥哥	gē ge	동료
+给	gěi	주기
+公共汽车	gōng gòng qì chē	버스
+公司	gōng sī	그 회사
+贵	guì	비싼
+过	guo	통과 (입자)
+孩子	hái zi	아이
+还	hái	또한 (부사)
+好吃	hǎo chī	먹기 좋다
+黑	hēi	검정
+红	hóng	빨간
+火车站	huǒ chē zhàn	기차역
+机场	jī chǎng	공항
+鸡蛋	jī dàn	계란
+件	jiàn	조각
+教室	jiào shì	교실
+姐姐	jiě jie	여자 형제
+介绍	jiè shào	소개
+近	jìn	근처에
+进	jìn	전진
+就	jiù	의 위에
+觉得	jué de	느낌
+咖啡	kā fēi	커피
+开始	kāi shǐ	스타트
+考试	kǎo shì	시험
+可能	kě néng	할 수있다
+可以	kě yǐ	할 수있다
+课	kè	수업
+快	kuài	빠른
+快乐	kuài lè	행복
+累	lèi	피곤한
+离	lí	...에서
+两	liǎng	두
+零	líng	제로
+路	lù	도로
+旅游	lv3 yóu	관광 여행
+卖	mài	팔다
+慢	màn	느린
+忙	máng	바쁜
+每	měi	마다
+妹妹	mèi mei	여동생
+门	mén	문
+面条	miàn tiáo	국수
+男	nán	남성
+您	nín	당신
+牛奶	niú nǎi	우유
+女	nǚ	여자
+旁边	páng biān	옆에
+跑步	pǎo bù	운영
+便宜	pián yi	싼
+票	piào	티켓
+妻子	qī zi	아내
+起床	qǐ chuáng	일어나
+千	qiān	천
+铅笔	qiān bǐ	연필
+晴	qíng	맑은
+去年	qù nián	작년
+让	ràng	허락하다
+日	rì	일
+上班	shàng bān	일하다
+身体	shēn tǐ	신체
+生病	shēng bìng	병든
+生日	shēng rì	생신
+时间	shí jiān	시각
+事情	shì qing	맡은 일
+手表	shǒu biǎo	손목 시계
+手机	shǒu jī	휴대폰
+说话	shuō huà	말하다
+送	sòng	포기하다
+虽然…但是…	suī rán …dàn shì …	그러나 비록 ~ 일지라도…
+它	tā	그것
+踢足球	tī zú qiú	축구를하다
+题	tí	질문
+跳舞	tiào wǔ	무용
+外	wài	밖의
+完	wán	끝
+玩	wán	플레이
+晚上	wǎn shang	밤에
+往	wǎng	...에
+为什么	wèi shén me	왜
+问	wèn	물어보기
+问题	wèn tí	문제
+希望	xī wàng	기대
+西瓜	xī guā	수박
+洗	xǐ	빨래
+小时	xiǎo shí	시
+笑	xiào	웃음
+新	xīn	새로운
+姓	xìng	이름
+休息	xiū xi	쉬다
+雪	xuě	눈
+颜色	yán sè	색깔
+眼睛	yǎn jing	눈
+羊肉	yáng ròu	양고기
+药	yào	약
+要	yào	필요
+也	yě	그리고 또한
+一下	yī xià	약간
+已经	yǐ jīng	이미
+一起	yī qǐ	함께
+意思	yì si	의미
+因为…所以…	yīn wèi …suǒ yǐ …	그러므로 ...
+阴	yīn	음
+游泳	yóu yǒng	수영
+右边	yòu bian	권리
+鱼	yú	물고기
+远	yuǎn	멀리
+运动	yùn dòng	운동
+再	zài	다시
+早上	zǎo shang	아침
+丈夫	zhàng fu	남편
+找	zhǎo	찾기
+着	zhe	와
+真	zhēn	진실
+正在	zhèng zài	존재
+知道	zhī dào	알고있다
+准备	zhǔn bèi	준비된
+走	zǒu	가다
+最	zuì	대부분
+左边	zuǒ bian	왼쪽

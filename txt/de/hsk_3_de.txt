@@ -1,0 +1,300 @@
+啊	a	was
+阿姨	ā yí	tante
+矮	ǎi	kurz
+爱好	ài hào	hobby
+安静	ān jìng	sei ruhig
+把	bǎ	stellen
+搬	bān	bewegung
+班	bān	klasse
+办法	bàn fǎ	methode
+办公室	bàn gōng shì	büro
+半	bàn	hälfte
+帮忙	bāng máng	hilfe
+包	bāo	paket
+饱	bǎo	voll
+北方	běi fāng	norden
+被	bèi	sein
+鼻子	bí zi	nase
+比较	bǐ jiào	vergleichen sie
+比赛	bǐ sài	spiel
+笔记本	bǐ jì běn	notizbuch
+必须	bì xū	müssen, zu ... haben
+变化	biàn huà	vielfalt
+别人	bié rén	andere leute
+冰箱	bīng xiāng	kühlschrank
+不但…而且…	bù dàn …ér qiě …	nicht nur aber auch…
+菜单	cài dān	speisekarte
+参加	cān jiā	sich beteiligen
+草	cǎo	gras
+层	céng	fußboden
+差	chà	unterschied
+超市	chāo shì	supermarkt
+衬衫	chèn shān	hemd
+城市	chéng shì	stadt
+成绩	chéng jì	noten
+迟到	chí dào	spät
+除了	chú le	außer, abgesondert, ausgenommen
+船	chuán	fähre
+春	chūn	frühling
+词典	cí diǎn	wörterbuch
+聪明	cōng ming	klug
+打扫	dǎ sǎo	sauber
+打算	dǎ suàn	wollen
+带	dài	band
+担心	dān xīn	sorge
+蛋糕	dàn gāo	kuchen
+当然	dāng rán	natürlich
+地	de	boden (partikel)
+灯	dēng	licht
+地方	dì fang	lokal
+地铁	dì tiě	u-bahn
+地图	dì tú	karte
+电梯	diàn tī	aufzug
+电子邮件	diàn zǐ yóu jiàn	email
+东	dōng	osten
+冬	dōng	winter
+动物	dòng wù	tier
+短	duǎn	kurz
+段	duàn	segment
+锻炼	duàn liàn	trainieren
+多么	duō me	wie
+饿	è a	hungrig
+耳朵	ěr duo	ohr
+发	fā	haar
+发烧	fā shāo	fieber
+发现	fā xiàn	finden
+方便	fāng biàn	bequemlichkeit
+放	fàng	stellen
+放心	fàng xīn	seien sie versichert
+分	fēn	minute
+复习	fù xí	rezension
+附近	fù jìn	in der nähe
+干净	gān jìng	sauber
+感冒	gǎn mào	kalt
+感兴趣	gǎn xìng qù	interessiert an
+刚才	gāng cái	grade eben
+个子	gè zi	groß
+根据	gēn jù	gemäß
+跟	gēn	mit
+更	gèng	mehr
+公斤	gōng jīn	kg
+公园	gōng yuán	park
+故事	gù shi	geschichte
+刮风	guā fēng	windig
+关	guān	ausschalten
+关系	guān xì	beziehung
+关心	guān xīn	besorgnis, sorge
+关于	guān yú	auf
+国家	guó jiā	land
+过	guò	pass (verb)
+过去	guò qu	vergangenheit
+还是	hái shì	ist immernoch
+害怕	hài pà	erschrocken
+黑板	hēi bǎn	tafel
+后来	hòu lái	später
+护照	hù zhào	reisepass
+花	huā	blume (verb)
+花	huā	blume (substantiv)
+画	huà	malerei
+坏	huài	schlecht
+欢迎	huān yíng	herzlich willkommen
+环境	huán jìng	umfeld
+还	huán	zurück (verb)
+换	huàn	veränderung
+黄河	huáng hé	gelber fluss
+回答	huí dá	antworten
+会议	huì yì	treffen
+或者	huò zhě	oder
+几乎	jī hū	fast
+机会	jī huì	gelegenheit
+极	jí	pole
+季节	jì jié	jahreszeit
+记得	jì de	merken
+检查	jiǎn chá	eine prüfung
+简单	jiǎn dān	einfach
+健康	jiàn kāng	gesundheit
+见面	jiàn miàn	treffen
+讲	jiǎng	sprechen
+教	jiào	lehren
+脚	jiǎo	fuß
+角	jiǎo	winkel
+接	jiē	abholen
+街道	jiē dào	straße
+结婚	jié hūn	heiraten
+结束	jié shù	ende
+节目	jié mù	programm
+节日	jié rì	festival
+解决	jiě jué	lösen
+借	jiè	leihen
+经常	jīng cháng	häufig
+经过	jīng guò	nach
+经理	jīng lǐ	manager
+久	jiǔ	lange
+旧	jiù	alt
+句子	jù zi	satz
+决定	jué dìng	entscheiden
+可爱	kě ài	schön
+渴	kě	durstig
+刻	kè	graviert
+客人	kè rén	die gäste
+空调	kōng tiáo	klimaanlage
+口	kǒu	mund
+哭	kū	schrei
+裤子	kù zi	hose
+筷子	kuài zi	essstäbchen
+蓝	lán	blau
+老	lǎo	alt
+离开	lí kāi	geh weg
+礼物	lǐ wù	geschenk
+历史	lì shǐ	geschichte
+脸	liǎn	gesicht
+练习	liàn xí	übung
+辆	liàng	fahrzeuge
+聊天	liáo tiān	zu chatten
+了解	liǎo jiě	zum verständnis
+邻居	lín jū	nachbar
+留学	liú xué	im ausland studieren
+楼	lóu	fußboden
+绿	lv4	grün
+马	mǎ	pferd
+马上	mǎ shàng	sofort
+满意	mǎn yì	befriedigung
+帽子	mào zi	hut
+米	mǐ	meter
+面包	miàn bāo	brot
+明白	míng bai	verstehen
+拿	ná	nehmen
+奶奶	nǎi nai	oma
+南	nán	süden
+难	nán	schwer
+难过	nán guò	traurig
+年级	nián jí	klasse
+年轻	nián qīng	jung
+鸟	niǎo	vogel
+努力	nǔ lì	hart arbeiten
+爬山	pá shān	bergsteigen
+盘子	pán zi	teller
+胖	pàng	fett
+啤酒	pí jiǔ	bier
+皮鞋	pí xié	lederschuhe
+瓶子	píng zi	flasche
+其实	qí shí	eigentlich
+其他	qí tā	andere
+奇怪	qí guài	seltsam
+骑	qí	reiten
+起飞	qǐ fēi	ausziehen, starten, abheben, losfahren
+起来	qǐ lái	aufstehen
+清楚	qīng chu	klar
+请假	qǐng jià	um beurlaubung bitten
+秋	qiū	herbst
+裙子	qún zi	rock
+然后	rán hòu	dann
+热情	rè qíng	begeisterung
+认为	rèn wéi	überlegen
+认真	rèn zhēn	ernst
+容易	róng yì	einfach
+如果	rú guǒ	im falle
+伞	sǎn	regenschirm
+上网	shàng wǎng	online gehen
+声音	shēng yīn	klang
+生气	shēng qì	verärgert
+世界	shì jiè	welt
+试	shì	prüfung
+瘦	shòu	dünn
+叔叔	shū shu	onkel
+舒服	shū fu	gemütlich
+数学	shù xué	mathematik
+树	shù	baum
+刷牙	shuā yá	putz dir die zähne
+双	shuāng	doppelt
+水平	shuǐ píng	niveau
+司机	sī jī	treiber
+太阳	tài yáng	sonne
+特别	tè bié	insbesondere
+疼	téng	schmerzen
+提高	tí gāo	verbessern
+体育	tǐ yù	bewegungserziehung, körpererziehung, leibeserziehung
+甜	tián	süss
+条	tiáo	artikel
+同事	tóng shì	kollege
+同意	tóng yì	zustimmen
+头发	tóu fa	haar
+突然	tū rán	plötzlich
+图书馆	tú shū guǎn	bibliothek
+腿	tuǐ	bein
+完成	wán chéng	durchführen
+碗	wǎn	schüssel
+万	wàn	zehntausend
+忘记	wàng jì	vergessen
+为	wèi	zum
+为了	wèi le	damit
+位	wèi	bisschen
+文化	wén huà	kultur
+西	xī	oo
+习惯	xí guàn	gewohnheit
+洗手间	xǐ shǒu jiān	toilette
+洗澡	xǐ zǎo	ein bad nehmen
+夏	xià	sommer-
+先	xiān	zuerst
+相信	xiāng xìn	glauben
+香蕉	xiāng jiāo	banane
+像	xiàng	mögen
+向	xiàng	zu
+小心	xiǎo xīn	achtung
+校长	xiào zhǎng	schulleiter
+新闻	xīn wén	nachrichten
+新鲜	xīn xiān	frisch
+信用卡	xìn yòng kǎ	kreditkarte
+行李箱	xíng lǐ xiāng	kofferraum
+熊猫	xióng māo	panda
+需要	xū yào	brauchen
+选择	xuǎn zé	wählen
+要求	yāo qiú	anspruch
+爷爷	yé ye	großvater
+一直	yī zhí	immer
+一定	yí dìng	sicher
+一共	yī gòng	gesamt
+一会儿	yī huì er	längere zeit
+一样	yī yàng	gleich
+以前	yǐ qián	vor
+一般	yī bān	allgemeines
+一边	yī biān	eine seite
+音乐	yīn yuè	musik-
+银行	yín háng	bank
+饮料	yǐn liào	trinken
+应该	yīng gāi	sollte
+影响	yǐng xiǎng	einflüsse
+用	yòng	verwenden
+游戏	yóu xì	spiel
+有名	yǒu míng	berühmt
+又	yòu	ebenfalls
+遇到	yù dào	begegnung
+元	yuán	yuan
+愿意	yuàn yì	bereit
+月亮	yuè liang	mond
+越	yuè	mehr
+站	zhàn	bahnhof
+张	zhāng	zhang
+长	zhǎng	lang (verb)
+着急	zháo jí	ängstlich
+照顾	zhào gu	kümmer dich um
+照片	zhào piàn	foto
+照相机	zhào xiàng jī	kamera
+只	zhǐ	nur (adverb)
+只	zhǐ	nur (quantifizierer)
+只有…才…	zhǐ yǒu …cái …	nur...
+中间	zhōng jiān	mittlere
+中文	zhōng wén	chinesisch
+终于	zhōng yú	zu guter letzt
+种	zhǒng	spezies (quantifizierer)
+重要	zhòng yào	wichtig
+周末	zhōu mò	wochenende
+主要	zhǔ yào	main
+注意	zhù yì	hinweis
+自己	zì jǐ	man selbst
+自行车	zì xíng chē	fahrrad
+总是	zǒng shì	immer
+嘴	zuǐ	mund
+最后	zuì hòu	zu guter letzt
+最近	zuì jìn	kürzlich
+作业	zuò yè	operation

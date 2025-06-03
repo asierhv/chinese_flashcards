@@ -1,0 +1,1300 @@
+哎	āi	ねえ
+唉	āi	うーん
+爱护	ài hù	大切に
+爱惜	ài xī	大切にする
+爱心	ài xīn	愛する
+安慰	ān wèi	快適さ
+安装	ān zhuāng	インストール
+岸	àn	海岸
+暗	àn	闇
+熬夜	áo yè	夜更かし
+把握	bǎ wò	把握
+摆	bǎi	置く
+办理	bàn lǐ	扱う
+傍晚	bàng wǎn	イブニング
+包裹	bāo guǒ	パッケージ
+包含	bāo hán	含む
+包括	bāo kuò	含める
+薄	báo	薄い
+保持	bǎo chí	維持する
+保存	bǎo cún	セーブ
+保留	bǎo liú	保つ
+保险	bǎo xiǎn	保険
+宝贝	bǎo bèi	赤ちゃん
+宝贵	bǎo guì	貴重な
+报到	bào dào	チェックイン
+报道	bào dào	報告書
+报告	bào gào	報告書
+报社	bào shè	新聞
+抱怨	bào yuàn	不平を言う
+悲观	bēi guān	悲観的
+背	bèi	バック
+背景	bèi jǐng	バックグラウンド
+被子	bèi zi	キルト
+本科	běn kē	学部
+本领	běn lǐng	能力
+本质	běn zhì	自然
+彼此	bǐ cǐ	お互い
+比例	bǐ lì	割合
+必然	bì rán	避けられない
+必要	bì yào	必要
+毕竟	bì jìng	結局
+避免	bì miǎn	避ける
+编辑	biān jí	編集
+鞭炮	biān pào	爆竹
+便	biàn	うんち
+辩论	biàn lùn	ディベート
+标点	biāo diǎn	句読点
+标志	biāo zhì	符号
+表达	biǎo dá	式
+表面	biǎo miàn	表面
+表明	biǎo míng	公演
+表情	biǎo qíng	表現
+表现	biǎo xiàn	実行した
+冰激凌	bīng jī líng	アイスクリーム
+病毒	bìng dú	ウイルス
+播放	bō fàng	演奏する
+玻璃	bō li	ガラス
+博物馆	bó wù guǎn	博物館
+脖子	bó zi	首
+不断	bú duàn	続けて
+不见得	bú jiàn de	必ずしも
+不耐烦	bú nài fán	せっかち
+不要紧	bú yào jǐn	関係ありません
+补充	bǔ chōng	補足
+不安	bù ān	邪魔
+不得了	bù dé liǎo	ひどい
+不然	bù rán	さもないと
+不如	bù rú	ほど良くない
+不足	bù zú	不十分
+布	bù	布
+步骤	bù zhòu	ステップ
+部门	bù mén	部門
+财产	cái chǎn	プロパティ
+彩虹	cǎi hóng	虹
+踩	cǎi	踏む
+采访	cǎi fǎng	インタビュー
+采取	cǎi qǔ	取る
+参考	cān kǎo	参照
+参与	cān yù	参加する
+惭愧	cán kuì	恥ずかしい
+操场	cāo chǎng	遊び場
+操心	cāo xīn	心配
+册	cè	本
+测验	cè yàn	テスト
+曾经	céng jīng	一度
+叉子	chā zi	フォーク
+差距	chā jù	ギャップ
+插	chā	インサート
+拆	chāi	解体
+产品	chǎn pǐn	製品
+产生	chǎn shēng	作物
+常识	cháng shí	常識
+长途	cháng tú	長距離輸送
+抄	chāo	コピー
+超级	chāo jí	素晴らしい
+朝	cháo	に向かって
+潮湿	cháo shī	ウェット
+吵	chǎo	騒々しい
+吵架	chǎo jià	喧嘩
+炒	chǎo	稚魚
+车库	chē kù	ガレージ
+车厢	chē xiāng	車
+彻底	chè dǐ	徹底
+沉默	chén mò	沈黙
+趁	chèn	利用する
+称	chēng	計量する
+称呼	chēng hu	コール
+称赞	chēng zàn	賞賛
+成分	chéng fèn	成分
+成果	chéng guǒ	結果
+成就	chéng jiù	成果
+成立	chéng lì	設立
+成人	chéng rén	大人
+成熟	chéng shú	成熟した
+成语	chéng yǔ	熟語
+成长	chéng zhǎng	育つ
+承担	chéng dān	くま
+承认	chéng rèn	認識
+承受	chéng shòu	くま
+程度	chéng dù	程度
+程序	chéng xù	プログラム
+诚恳	chéng kěn	誠実
+吃亏	chī kuī	苦しむ
+持续	chí xù	続く
+池塘	chí táng	池
+迟早	chí zǎo	遅かれ早かれ
+尺子	chǐ zi	ルーラー
+翅膀	chì bǎng	羽
+充电器	chōng diàn qì	充電器
+充分	chōng fèn	フル
+充满	chōng mǎn	フル
+冲	chōng	ラッシュ
+重复	chóng fù	繰り返す
+宠物	chǒng wù	ペット
+抽屉	chōu ti	引き出し
+抽象	chōu xiàng	概要
+丑	chǒu	醜い
+臭	chòu	臭い
+出版	chū bǎn	公開
+出口	chū kǒu	書き出す
+出色	chū sè	未解決の
+出示	chū shì	公演
+出席	chū xí	出席する
+初级	chū jí	プライマリ
+除非	chú fēi	そうでなければ
+除夕	chú xī	大晦日
+处理	chǔ lǐ	扱う
+传播	chuán bō	拡大
+传染	chuán rǎn	感染
+传说	chuán shuō	伝説
+传统	chuán tǒng	伝統的
+窗帘	chuāng lián	カーテン
+闯	chuǎng	ラッシュ
+创造	chuàng zào	作成する
+吹	chuī	ブロー
+词汇	cí huì	単語
+辞职	cí zhí	辞任
+此外	cǐ wài	加えて
+刺激	cì jī	刺激する
+次要	cì yào	二次
+匆忙	cōng máng	急いで
+从此	cóng cǐ	それ以来
+从而	cóng ér	それによって
+从前	cóng qián	前
+从事	cóng shì	従事する
+粗糙	cū cāo	粗い
+促进	cù jìn	促進する
+促使	cù shǐ	促す
+醋	cù	酢
+催	cuī	思い出させる
+存在	cún zài	存在する
+措施	cuò shī	対策
+答应	dā ying	約束する
+达到	dá dào	成し遂げる
+打工	dǎ gōng	アルバイト
+打交道	dǎ jiāo dào	扱う
+打喷嚏	dǎ pēn tì	くしゃみ
+打听	dǎ ting	についてお問い合わせ
+大方	dà fāng	寛大な
+大厦	dà shà	建物
+大象	dà xiàng	象
+大型	dà xíng	大
+呆	dāi	滞在
+代表	dài biǎo	代表
+代替	dài tì	代わりに
+待遇	dài yù	処理
+贷款	dài kuǎn	ローン
+单纯	dān chún	シンプル
+单调	dān diào	単調
+单独	dān dú	一人で
+单位	dān wèi	単位
+单元	dān yuán	単位
+担任	dān rèn	として役立ちます
+耽误	dān wu	持続する
+胆小鬼	dǎn xiǎo guǐ	腰抜け
+淡	dàn	光
+当地	dāng dì	地元
+当心	dāng xīn	注意してください
+挡	dǎng	ブロック
+倒霉	dǎo méi	不運
+导演	dǎo yǎn	ディレクター
+导致	dǎo zhì	その結果
+岛屿	dǎo yǔ	島々
+到达	dào dá	到着
+道德	dào dé	道徳の
+道理	dào lǐ	理由
+登记	dēng jì	登録
+等待	děng dài	待つ
+等于	děng yú	等しい
+滴	dī	落とす
+敌人	dí rén	敵
+的确	dí què	確かに
+地道	dì dao	典型的な
+地理	dì lǐ	地理
+地区	dì qū	範囲
+地毯	dì tǎn	カーペット
+地位	dì wèi	状態
+地震	dì zhèn	地震
+递	dì	パス
+点心	diǎn xin	デザート
+电池	diàn chí	電池
+电台	diàn tái	ラジオ放送局
+钓	diào	釣り
+顶	dǐng	上
+冻	dòng	氷結
+动画片	dòng huà piān	漫画
+洞	dòng	穴
+豆腐	dòu fu	豆腐
+逗	dòu	からかう
+独立	dú lì	独立
+独特	dú tè	ユニーク
+度过	dù guò	費やす
+断	duàn	ブレーク
+堆	duī	ヒープ
+兑换	duì huàn	両替
+对比	duì bǐ	比較
+对待	duì dài	扱う
+对方	duì fāng	向こう側
+对手	duì shǒu	相手
+对象	duì xiàng	オブジェクト
+吨	dūn	トン
+蹲	dūn	スクワット
+顿	dùn	一時停止
+多亏	duō kuī	ありがとう
+多余	duō yú	冗長
+朵	duǒ	行う
+躲藏	duǒ cáng	隠す
+恶劣	è liè	悪い
+耳环	ěr huán	イヤリング
+发表	fā biǎo	公開
+发愁	fā chóu	心配
+发达	fā dá	発展した
+发抖	fā dǒu	震え
+发挥	fā huī	演奏する
+发明	fā míng	発明
+发票	fā piào	請求書
+发言	fā yán	話す
+罚款	fá kuǎn	罰金
+法院	fǎ yuàn	裁判所
+翻	fān	順番
+繁荣	fán róng	繁栄
+反而	fǎn ér	代わりに
+反复	fǎn fù	繰り返し
+反应	fǎn yìng	反応
+反映	fǎn yìng	反射する
+反正	fǎn zhèng	とにかく
+范围	fàn wéi	範囲
+方	fāng	平方
+方案	fāng àn	プログラム
+方式	fāng shì	道
+妨碍	fáng ài	ヒンダー
+仿佛	fǎng fú	かのように
+非	fēi	非
+肥皂	féi zào	石鹸
+废话	fèi huà	ナンセンス
+分别	fēn bié	それぞれ
+分布	fēn bù	配布
+分配	fēn pèi	分布
+分手	fēn shǒu	別れる
+分析	fēn xī	分析
+纷纷	fēn fēn	続々
+奋斗	fèn dòu	闘争
+疯狂	fēng kuáng	クレイジー
+风格	fēng gé	スタイル
+风景	fēng jǐng	風景
+风俗	fēng sú	カスタム
+风险	fēng xiǎn	危険
+讽刺	fěng cì	アイロニー
+否定	fǒu dìng	負
+否认	fǒu rèn	拒否する
+幅	fú	幅
+扶	fú	助けて
+服装	fú zhuāng	衣類
+辅导	fǔ dǎo	コーチング
+复制	fù zhì	コピー
+妇女	fù nv3	女性
+改革	gǎi gé	改革
+改进	gǎi jìn	改善する
+改善	gǎi shàn	改善する
+改正	gǎi zhèng	正しい
+概括	gài kuò	一般化する
+概念	gài niàn	概念
+盖	gài	カバー
+干脆	gān cuì	単に
+干燥	gān zào	ドライ
+感激	gǎn jī	ありがたい
+感受	gǎn shòu	感じる
+感想	gǎn xiǎng	考え
+赶紧	gǎn jǐn	急げ
+赶快	gǎn kuài	急げ
+干活儿	gàn huó r	作業
+钢铁	gāng tiě	鋼
+高档	gāo dàng	高級感
+高级	gāo jí	高度な
+搞	gǎo	従事する
+告别	gào bié	さらば
+格外	gé wài	特に
+隔壁	gé bì	隣
+个别	gè bié	個人
+个人	gè rén	個人
+个性	gè xìng	人
+各自	gè zì	それぞれ
+根	gēn	ルート
+根本	gēn běn	ファンダメンタル
+公布	gōng bù	発表する
+公开	gōng kāi	公衆
+公平	gōng píng	フェア
+公寓	gōng yù	アパート
+公元	gōng yuán	広告。
+公主	gōng zhǔ	王女
+功能	gōng néng	特徴
+工厂	gōng chǎng	工場
+工程师	gōng chéng shī	エンジニア
+工具	gōng jù	ツール
+工人	gōng rén	ワーカー
+工业	gōng yè	業界
+恭喜	gōng xǐ	おめでとう
+贡献	gòng xiàn	貢献
+沟通	gōu tōng	コミュニケーション
+构成	gòu chéng	構成する
+姑姑	gū gu	叔母
+姑娘	gū niang	女の子
+古代	gǔ dài	古代
+古典	gǔ diǎn	クラシック
+股票	gǔ piào	株式
+骨头	gǔ tou	骨
+鼓舞	gǔ wǔ	インスパイア
+鼓掌	gǔ zhǎng	拍手
+固定	gù dìng	修繕
+挂号	guà hào	登録済み
+乖	guāi	良い
+拐弯	guǎi wān	順番
+怪不得	guài bu de	不思議ではありません
+关闭	guān bì	シャットダウン
+官	guān	公式
+观察	guān chá	観察された
+观点	guān diǎn	見る
+观念	guān niàn	考え
+管子	guǎn zǐ	チューブ
+冠军	guàn jūn	チャンピオン
+光滑	guāng hua	スムーズ
+光临	guāng lín	来て
+光明	guāng míng	明るい
+光盘	guāng pán	cd
+广场	guǎng chǎng	平方
+广大	guǎng dà	広大
+广泛	guǎng fàn	広く
+归纳	guī nà	誘導
+规矩	guī ju	ルール
+规律	guī lv4	法律
+规模	guī mó	規模
+规则	guī zé	ルール
+柜台	guì tái	カウンター
+滚	gǔn	ロール
+锅	guō	ポット
+国庆节	guó qìng jié	ナショナルデー
+国王	guó wáng	キング
+果然	guǒ rán	本当に
+果实	guǒ shí	フルーツ
+过分	guò fèn	過剰
+过敏	guò mǐn	アレルギー
+过期	guò qī	期限切れ
+哈	hā	何
+海关	hǎi guān	税関
+海鲜	hǎi xiān	シーフード
+喊	hǎn	コール
+行业	háng yè	業界
+豪华	háo huá	贅沢
+好客	hào kè	おもてなし
+好奇	hào qí	奇妙な
+何必	hé bì	なぜわざわざ
+何况	hé kuàng	言うまでもなく
+合法	hé fǎ	正当な
+合理	hé lǐ	リーズナブル
+合同	hé tong	契約する
+合影	hé yǐng	グループ写真
+合作	hé zuò	協力
+和平	hé píng	平和
+核心	hé xīn	芯
+恨	hèn	嫌い
+猴子	hóu zi	モンキー
+后背	hòu bèi	バック
+后果	hòu guǒ	結果として
+呼吸	hū xī	呼吸する
+忽然	hū rán	突然
+忽视	hū shì	無視する
+壶	hú	ポット
+糊涂	hú tu	混乱している
+胡说	hú shuō	ナンセンス
+胡同	hú tòng	路地
+蝴蝶	hú dié	バタフライ
+花生	huā shēng	落花生
+华裔	huá yì	中国語
+滑	huá	スリップ
+划	huà	ドロー
+化学	huà xué	化学
+话题	huà tí	トピック
+怀念	huái niàn	お嬢
+怀孕	huái yùn	妊娠
+缓解	huǎn jiě	簡易
+幻想	huàn xiǎng	ファンタジー
+慌张	huāng zhāng	パニック
+黄金	huáng jīn	ゴールド
+恢复	huī fù	戻す
+挥	huī	波
+灰	huī	グレー
+灰尘	huī chén	ほこり
+灰心	huī xīn	落胆
+汇率	huì lv4	為替レート
+婚礼	hūn lǐ	結婚式
+婚姻	hūn yīn	結婚
+活跃	huó yuè	アクティブ
+伙伴	huǒ bàn	相棒
+火柴	huǒ chái	一致する
+或许	huò xǔ	おそらく
+基本	jī běn	基本
+机器	jī qì	機械
+激烈	jī liè	激しい
+肌肉	jī ròu	筋
+及格	jí gé	パス
+急忙	jí máng	急いで
+急诊	jí zhěn	緊急
+极其	jí qí	非常に
+集合	jí hé	セットする
+集体	jí tǐ	集団
+集中	jí zhōng	濃縮
+寂寞	jì mò	寂しい
+系领带	jì lǐng dài	ネクタイを着用する
+纪录	jì lù	記録
+纪律	jì lv4	規律
+纪念	jì niàn	記念
+计算	jì suàn	計算
+记录	jì lù	録音
+记忆	jì yì	メモリ
+嘉宾	jiā bīn	ゲスト
+夹子	jiā zi	クリップ
+家庭	jiā tíng	家族
+家务	jiā wù	家事
+家乡	jiā xiāng	出身地
+假如	jiǎ rú	もし
+假设	jiǎ shè	仮説
+假装	jiǎ zhuāng	ふりをする
+甲	jiǎ	a
+价值	jià zhí	値
+嫁	jià	結婚する
+驾驶	jià shǐ	ドライブ
+兼职	jiān zhí	パートタイム
+坚决	jiān jué	断固として
+坚强	jiān qiáng	強い
+肩膀	jiān bǎng	ショルダー
+艰巨	jiān jù	難しい
+艰苦	jiān kǔ	ハード
+剪刀	jiǎn dāo	はさみ
+捡	jiǎn	選び出す
+简历	jiǎn lì	履歴書
+简直	jiǎn zhí	単に
+健身	jiàn shēn	フィットネス
+建立	jiàn lì	セットアップ
+建设	jiàn shè	建設
+建筑	jiàn zhù	建物
+键盘	jiàn pán	キーボード
+讲究	jiǎng jiu	注意を払う
+讲座	jiǎng zuò	講義
+酱油	jiàng yóu	醤油
+交换	jiāo huàn	両替
+交际	jiāo jì	コミュニケーション
+交往	jiāo wǎng	連絡先
+浇	jiāo	注ぐ
+胶水	jiāo shuǐ	接着剤
+狡猾	jiǎo huá	狡猾
+角度	jiǎo dù	角度
+教材	jiào cái	教科書
+教练	jiào liàn	コーチ
+教训	jiào xun	レッスン
+接触	jiē chù	連絡先
+接待	jiē dài	受信
+接近	jiē jìn	に近い
+结实	jiē shi	固体
+阶段	jiē duàn	ステージ
+结构	jié gòu	構造
+结合	jié hé	組み合わせる
+结论	jié lùn	結論として
+结账	jié zhàng	お勘定お願いします
+节省	jié shěng	セーブ
+借口	jiè kǒu	言い訳
+届	jiè	セッション
+戒	jiè	終了する
+戒指	jiè zhi	リング
+金属	jīn shǔ	金属
+尽快	jǐn kuài	できるだけ速くに
+紧急	jǐn jí	緊急
+谨慎	jǐn shèn	注意深い
+尽力	jìn lì	がんばってね
+尽量	jìn liàng	してみてください
+近代	jìn dài	現代
+进步	jìn bù	進捗
+进口	jìn kǒu	インポート
+精力	jīng lì	エネルギー
+精神	jīng shén	精神
+经典	jīng diǎn	クラシック
+经商	jīng shāng	営業する
+经营	jīng yíng	オペレーティング
+酒吧	jiǔ bā	バー
+救	jiù	セーブ
+救护车	jiù hù chē	救急車
+舅舅	jiù jiu	おじさん
+居然	jū rán	意外と
+桔子	jú zi	オレンジ
+俱乐部	jù lè bù	クラブ
+具备	jù bèi	持ってる
+具体	jù tǐ	明確な
+巨大	jù dà	巨大な
+据说	jù shuō	と言われている
+捐	juān	寄付
+决赛	jué sài	決勝
+决心	jué xīn	決定
+绝对	jué duì	絶対の
+角色	jué sè	役割
+军事	jūn shì	軍隊
+均匀	jūn yún	均等に
+卡车	kǎ chē	トラック
+开发	kāi fā	開発
+开放	kāi fàng	開いた
+开幕式	kāi mù shì	開会式
+开水	kāi shuǐ	沸騰したお湯
+砍	kǎn	切る
+看不起	kàn bu qǐ	軽蔑する
+看望	kàn wàng	訪問
+靠	kào	沿って
+颗	kē	ピース
+可见	kě jiàn	見える
+可靠	kě kào	信頼性のある
+可怕	kě pà	ひどい
+克	kè	グラム
+克服	kè fú	乗り越える
+刻苦	kè kǔ	ハードワーク
+客观	kè guān	目的
+课程	kè chéng	コース
+空间	kōng jiān	スペース
+控制	kòng zhì	コントロール
+空闲	kòng xián	アイドル
+口味	kǒu wèi	味
+夸	kuā	自慢
+夸张	kuā zhāng	過言
+会计	kuài jì	会計
+宽	kuān	幅
+昆虫	kūn chóng	昆虫
+扩大	kuò dà	展開
+辣椒	là jiāo	チリ
+拦	lán	バー
+烂	làn	腐った
+朗读	lǎng dú	読み上げます
+劳动	láo dòng	労働
+劳驾	láo jià	すみません
+姥姥	lǎo lao	おばあちゃん
+老百姓	lǎo bǎi xìng	一般人
+老板	lǎo bǎn	ボス
+老婆	lǎo pó	妻
+老实	lǎo shi	正直
+老鼠	lǎo shǔ	マウス
+乐观	lè guān	楽観
+雷	léi	私の
+类型	lèi xíng	の種類
+冷淡	lěng dàn	コールド
+厘米	lí mǐ	cm
+梨	lí	梨
+离婚	lí hūn	離婚
+理论	lǐ lùn	理論
+理由	lǐ yóu	理由
+利润	lì rùn	利益
+利息	lì xī	興味
+利益	lì yì	興味
+利用	lì yòng	使用する
+力量	lì liang	パワー
+立即	lì jí	すぐに
+立刻	lì kè	すぐに
+联合	lián hé	ジョイント
+连忙	lián máng	早く
+连续	lián xù	継続的
+恋爱	liàn ài	恋愛中
+粮食	liáng shi	食物
+良好	liáng hǎo	良い
+亮	liàng	明るい
+了不起	liǎo bu qǐ	すごい
+列车	liè chē	列車
+临时	lín shí	一時的
+灵活	líng huó	フレキシブル
+铃	líng	ベル
+零件	líng jiàn	コンポーネント
+零食	líng shí	おやつ
+领导	lǐng dǎo	リーダーシップ
+领域	lǐng yù	フィールド
+流传	liú chuán	拡大
+流泪	liú lèi	涙
+浏览	liú lǎn	ブラウズ
+龙	lóng	ドラゴン
+漏	lòu	リーク
+录取	lù qǔ	入場料
+录音	lù yīn	録音
+陆地	lù dì	土地
+陆续	lù xù	続々
+轮流	lún liú	順番
+论文	lùn wén	論文
+逻辑	luó ji	論理
+落后	luò hòu	後ろに
+骂	mà	呪い
+麦克风	mài kè fēng	マイクロフォン
+馒头	mán tou	蒸しパン
+满足	mǎn zú	満足させる
+毛病	máo bìng	障害
+矛盾	máo dùn	矛盾
+冒险	mào xiǎn	冒険
+贸易	mào yì	取引
+媒体	méi tǐ	メディア
+煤炭	méi tàn	石炭
+眉毛	méi mao	眉
+美术	měi shù	アート
+魅力	mèi lì	チャーム
+梦想	mèng xiǎng	夢
+密切	mì qiè	閉じる
+秘密	mì mì	秘密
+秘书	mì shū	秘書
+蜜蜂	mì fēng	蜂
+面对	miàn duì	面
+面积	miàn jī	範囲
+面临	miàn lín	直面している
+描写	miáo xiě	説明
+苗条	miáo tiáo	スリム
+敏感	mǐn gǎn	敏感
+名牌	míng pái	有名ブランド
+名片	míng piàn	名刺
+名胜古迹	míng shèng gǔ jì	興味のある場所
+明确	míng què	晴れ
+明显	míng xiǎn	明らか
+明星	míng xīng	有名人
+命令	mìng lìng	コマンド
+命运	mìng yùn	運命
+摸	mō	接する
+摩托车	mó tuō chē	オートバイ
+模仿	mó fǎng	模倣する
+模糊	mó hu	ぼやけている
+模特	mó tè	モデル
+陌生	mò shēng	奇妙な
+某	mǒu	特定の
+木头	mù tou	木材
+目标	mù biāo	目的
+目录	mù lù	目次
+目前	mù qián	現在
+哪怕	nǎ pà	たとえ
+难怪	nán guài	不思議ではありません
+难免	nán miǎn	必然
+脑袋	nǎo dài	頭
+内部	nèi bù	内部
+内科	nèi kē	内科
+嫩	nèn	入札
+能干	néng gàn	有能
+能源	néng yuán	エネルギー
+嗯	ńg	ok
+年代	nián dài	年
+年纪	nián jì	年齢
+念	niàn	読んだ
+宁可	nìng kě	むしろ
+牛仔裤	niú zǎi kù	ジーンズ
+农村	nóng cūn	農村地域
+农民	nóng mín	農家
+农业	nóng yè	農業
+浓	nóng	濃縮
+女士	nv3 shì	ms
+欧洲	ōu zhōu	ヨーロッパ
+偶然	ǒu rán	偶発的
+拍	pāi	シュート
+派	pài	送信
+盼望	pàn wàng	望む
+培训	péi xùn	トレーニング
+培养	péi yǎng	育成する
+赔偿	péi cháng	補償
+佩服	pèi fú	賞賛する
+配合	pèi hé	協力する
+盆	pén	ポット
+碰	pèng	バンプ
+批	pī	バッチ
+批准	pī zhǔn	承認する
+披	pī	ファイ
+疲劳	pí láo	倦怠感
+匹	pǐ	一致
+片	piàn	シート
+片面	piàn miàn	片側
+飘	piāo	風と共に
+拼音	pīn yīn	ピンイン
+频道	pín dào	チャネル
+凭	píng	に頼る
+平均	píng jūn	平均
+平	píng	レベル
+平安	píng 'ān	安全
+平常	píng cháng	通常
+平等	píng děng	平等
+平方	píng fāng	平方
+平衡	píng héng	残高
+平静	píng jìng	落ち着いて
+评价	píng jià	評価
+破产	pò chǎn	倒産
+破坏	pò huài	ダメージ
+迫切	pò qiè	緊急
+期待	qī dài	を楽しみにしています
+期间	qī jiān	限目
+其余	qí yú	残り
+奇迹	qí jì	奇跡
+企业	qǐ yè	企業
+启发	qǐ fā	啓発
+气氛	qì fēn	雰囲気
+汽油	qì yóu	ガソリン
+签	qiān	符号
+谦虚	qiān xū	控えめ
+前途	qián tú	未来
+浅	qiǎn	浅い
+欠	qiàn	借りている
+枪	qiāng	銃
+墙	qiáng	壁
+强调	qiáng diào	強調する
+强烈	qiáng liè	強い
+抢	qiǎng	つかむ
+悄悄	qiāo qiāo	静かに
+瞧	qiáo	見て
+巧妙	qiǎo miào	賢い
+切	qiē	切る
+亲爱	qīn ài	親愛な
+亲切	qīn qiè	種類
+亲自	qīn zì	個人的に
+勤奋	qín fèn	勤勉
+清淡	qīng dàn	光
+轻视	qīng shì	軽蔑
+轻易	qīng yì	簡単に
+青	qīng	緑
+青春	qīng chūn	若者
+青少年	qīng shào nián	十代の若者たち
+情景	qíng jǐng	シーン
+情绪	qíng xù	気分
+请求	qǐng qiú	リクエスト
+庆祝	qìng zhù	祝う
+球迷	qiú mí	ファン
+趋势	qū shì	傾向
+取消	qǔ xiāo	キャンセル
+娶	qǔ	結婚する
+去世	qù shì	亡くなりました
+圈	quān	リング
+全面	quán miàn	包括的
+权利	quán lì	正しい
+权力	quán lì	その力
+劝	quàn	アドバイス
+缺乏	quē fá	の欠如
+确定	què dìng	決定する
+确认	què rèn	確認
+群	qún	グループ
+燃烧	rán shāo	燃焼
+绕	rào	周り
+热爱	rè ài	愛する
+热烈	rè liè	暖かい
+热心	rè xīn	熱狂的
+人才	rén cái	才能
+人口	rén kǒu	人口
+人类	rén lèi	人類
+人民币	rén mín bì	rmb
+人生	rén shēng	生活
+人事	rén shì	人員
+人物	rén wù	キャラクター
+人员	rén yuán	人員
+忍不住	rěn bu zhù	仕方がない
+日常	rì cháng	毎日
+日程	rì chéng	スケジュール
+日历	rì lì	カレンダー
+日期	rì qī	日付
+日用品	rì yòng pǐn	日用品
+日子	rì zi	日
+如何	rú hé	どうですか
+如今	rú jīn	今
+软	ruǎn	柔らかい
+软件	ruǎn jiàn	ソフトウェア
+弱	ruò	弱い
+洒	sǎ	振りかける
+嗓子	sǎng zi	ボイス
+色彩	sè cǎi	色
+杀	shā	殺します
+沙漠	shā mò	砂漠
+沙滩	shā tān	ビーチ
+傻	shǎ	愚か
+晒	shài	公演
+删除	shān chú	削除
+闪电	shǎn diàn	ライトニング
+善良	shàn liáng	親切
+善于	shàn yú	が上手
+扇子	shàn zi	ファン
+伤害	shāng hài	痛い
+商品	shāng pǐn	商品
+商务	shāng wù	ビジネス
+商业	shāng yè	ビジネス
+上当	shàng dàng	ばか
+蛇	shé	ヘビ
+舍不得	shě bu de	気が進まない
+射击	shè jī	撮影
+摄影	shè yǐng	写真
+设备	shè bèi	装置
+设计	shè jì	設計
+设施	shè shī	施設
+伸	shēn	ストレッチ
+深刻	shēn kè	深遠
+身材	shēn cái	図
+身份	shēn fèn	身元
+神话	shén huà	神話
+神秘	shén mì	神秘的
+升	shēng	上昇
+声调	shēng diào	トーン
+生产	shēng chǎn	作物
+生动	shēng dòng	鮮やか
+生长	shēng zhǎng	成長する
+绳子	shéng zi	ロープ
+省略	shěng lüè	省略
+胜利	shèng lì	勝利
+失眠	shī mián	不眠症
+失去	shī qù	失う
+失业	shī yè	失業
+湿润	shī rùn	しっとり
+狮子	shī zi	ライオン
+诗	shī	詩
+实话	shí huà	真実
+实践	shí jiàn	練習
+实习	shí xí	練習
+实现	shí xiàn	成し遂げる
+实验	shí yàn	実験
+实用	shí yòng	実用的
+时差	shí chā	時差ぼけ
+时代	shí dài	時代
+时刻	shí kè	時間
+时髦	shí máo	ファッショナブル
+时期	shí qī	限目
+时尚	shí shàng	ファッション
+石头	shí tou	結石
+食物	shí wù	食物
+使劲儿	shǐ jìn r	ハード
+始终	shǐ zhōng	常に
+事实	shì shí	事実
+事物	shì wù	事
+事先	shì xiān	あらかじめ
+似的	shì de	お気に入り
+士兵	shì bīng	兵士
+市场	shì chǎng	市場
+试卷	shì juàn	試験紙
+收获	shōu huò	褒賞
+收据	shōu jù	レシート
+手工	shǒu gōng	マニュアル
+手术	shǒu shù	手術
+手套	shǒu tào	手袋
+手续	shǒu xù	手続き
+手指	shǒu zhǐ	指
+首	shǒu	最初
+受伤	shòu shāng	負傷者
+寿命	shòu mìng	生活
+书架	shū jià	本棚
+梳子	shū zi	櫛
+舒适	shū shì	快適
+蔬菜	shū cài	野菜
+输入	shū rù	入る
+熟练	shú liàn	熟練した
+属于	shǔ yú	属する
+数	shǔ	数
+鼠标	shǔ biāo	マウス
+数据	shù jù	データ
+数码	shù mǎ	デジタル
+摔倒	shuāi dǎo	秋
+甩	shuǎi	投げ捨てる
+双方	shuāng fāng	両側
+税	shuì	税金
+说不定	shuō bu dìng	多分
+说服	shuō fú	納得させる
+丝绸	sī chóu	シルク
+丝毫	sī háo	わずかな
+思考	sī kǎo	考え
+思想	sī xiǎng	思想
+撕	sī	涙
+私人	sī rén	民間
+似乎	sì hū	思われる
+搜索	sōu suǒ	検索する
+宿舍	sù shè	寮の部屋
+随身	suí shēn	運ぶ
+随时	suí shí	いつでも
+随手	suí shǒu	さりげなく
+碎	suì	壊れた
+损失	sǔn shī	損失
+缩短	suō duǎn	短くする
+所	suǒ	そう
+锁	suǒ	ロック
+台阶	tái jiē	手順
+太极拳	tài jí quán	太極拳
+太太	tài tai	夫人
+谈判	tán pàn	ネゴシエーション
+坦率	tǎn shuài	率直
+烫	tàng	ホット
+桃	táo	桃
+淘气	táo qì	いたずら
+逃	táo	逃れる
+逃避	táo bì	逃れる
+讨价还价	tǎo jià huán jià	バーゲン
+套	tào	セットする
+特色	tè sè	特徴
+特殊	tè shū	特殊
+特征	tè zhēng	特徴
+疼爱	téng ài	愛する
+提倡	tí chàng	促進する
+提纲	tí gāng	概要
+提问	tí wèn	質問をする
+题目	tí mù	トピック
+体会	tǐ huì	経験
+体贴	tǐ tiē	思いやりのある
+体现	tǐ xiàn	反射する
+体验	tǐ yàn	経験
+天空	tiān kōng	空
+天真	tiān zhēn	ナイーブ
+调皮	tiáo pí	いたずら
+调整	tiáo zhěng	調整
+挑战	tiǎo zhàn	チャレンジ
+通常	tōng cháng	通常
+统一	tǒng yī	団結する
+痛苦	tòng kǔ	痛み
+痛快	tòng kuài	ハッピー
+偷	tōu	スチール
+投入	tóu rù	投資します
+投资	tóu zī	投資
+透明	tòu míng	トランスペアレント
+突出	tū chū	目立つ
+土地	tǔ dì	土地
+土豆	tǔ dòu	じゃがいも
+兔子	tù zi	ウサギ
+吐	tù	投げた
+团	tuán	グループ
+推辞	tuī cí	低下
+推广	tuī guǎng	宣伝する
+推荐	tuī jiàn	おすすめ
+退	tuì	退却
+退步	tuì bù	回帰
+退休	tuì xiū	退職
+歪	wāi	曲がった
+外公	wài gōng	おじいちゃん
+外交	wài jiāo	外交
+完美	wán měi	完璧
+完善	wán shàn	完璧
+完整	wán zhěng	コンプリート
+玩具	wán jù	おもちゃ
+万一	wàn yī	念のため
+王子	wáng zǐ	王子
+往返	wǎng fǎn	往復
+网络	wǎng luò	インターネット
+危害	wēi hài	害
+威胁	wēi xié	脅威
+微笑	wēi xiào	スマイル
+唯一	wéi yī	のみ
+围巾	wéi jīn	スカーフ
+围绕	wéi rào	周り
+维修	wéi xiū	サービス
+违反	wéi fǎn	違反
+伟大	wěi dà	すごい
+委屈	wěi qū	苦しめられた
+尾巴	wěi ba	尾
+位于	wèi yú	寝転ぶ
+位置	wèi zhi	ポジション
+未必	wèi bì	必ずしも
+未来	wèi lái	未来
+胃	wèi	胃
+胃口	wèi kǒu	食欲
+温暖	wēn nuǎn	暖かい
+温柔	wēn róu	入札
+文件	wén jiàn	ファイル
+文具	wén jù	文房具
+文明	wén míng	文明
+文学	wén xué	文献
+文字	wén zì	テキスト
+闻	wén	におい
+吻	wěn	接吻
+稳定	wěn dìng	安定
+问候	wèn hòu	ご挨拶
+卧室	wò shì	ベッドルーム
+握手	wò shǒu	握手をする
+屋子	wū zi	ルーム
+无奈	wú nài	無力
+无数	wú shù	無数
+无所谓	wú suǒ wèi	関係ありません
+武术	wǔ shù	武道
+勿	wù	しない
+物理	wù lǐ	物理的
+物质	wù zhì	物質
+雾	wù	霧
+吸取	xī qǔ	ドロー
+吸收	xī shōu	吸収します
+戏剧	xì jù	ドラマ
+系	xì	システム
+系统	xì tǒng	システム
+细节	xì jié	詳細
+瞎	xiā	ブラインド
+下载	xià zǎi	ダウンロード
+吓	xià	怖い
+夏令营	xià lìng yíng	サマーキャンプ
+鲜艳	xiān yàn	明るい
+显得	xiǎn de	現れる
+显然	xiǎn rán	明らかに
+显示	xiǎn shì	表示
+县	xiàn	郡
+现代	xiàn dài	モダン
+现实	xiàn shí	現実
+现象	xiàn xiàng	現象
+限制	xiàn zhì	制限
+相处	xiāng chǔ	やっていく
+相当	xiāng dāng	かなり
+相对	xiāng duì	比較的
+相关	xiāng guān	関連
+相似	xiāng sì	同様
+香肠	xiāng cháng	ソーセージ
+享受	xiǎng shòu	楽しい
+想念	xiǎng niàn	お嬢
+想象	xiǎng xiàng	想像してみてください
+象棋	xiàng qí	チェス
+象征	xiàng zhēng	シンボル
+项	xiàng	項目
+项链	xiàng liàn	ネックレス
+项目	xiàng mù	事業
+消费	xiāo fèi	消費
+消化	xiāo huà	消化
+消极	xiāo jí	負
+消失	xiāo shī	姿を消す
+销售	xiāo shòu	販売
+小麦	xiǎo mài	小麦
+小气	xiǎo qi	けち
+孝顺	xiào shun	親孝行
+效率	xiào lv4	効果
+歇	xiē	残り
+斜	xié	斜め
+写作	xiě zuò	書き込み
+心理	xīn lǐ	心理的
+心脏	xīn zàng	ハート
+欣赏	xīn shǎng	楽しい
+信号	xìn hào	信号
+信任	xìn rèn	信頼
+形成	xíng chéng	形
+形容	xíng róng	説明する
+形势	xíng shì	状況
+形式	xíng shì	形
+形象	xíng xiàng	画像
+形状	xíng zhuàng	形状
+行动	xíng dòng	アクション
+行人	xíng rén	歩行者
+行为	xíng wéi	動作
+幸亏	xìng kuī	幸いにも
+幸运	xìng yùn	幸運な
+性质	xìng zhì	自然
+兄弟	xiōng dì	ブラザーズ
+胸	xiōng	胸
+休闲	xiū xián	カジュアル
+修改	xiū gǎi	変更する
+虚心	xū xīn	控えめ
+叙述	xù shù	ナレーション
+宣布	xuān bù	発表する
+宣传	xuān chuán	宣伝
+学历	xué lì	教育
+学术	xué shù	アカデミック
+学问	xué wèn	知識
+血	xuè	血液
+寻找	xún zhǎo	探す
+询问	xún wèn	尋ねる
+训练	xùn liàn	トレーニング
+迅速	xùn sù	急速
+押金	yā jīn	預り金
+牙齿	yá chǐ	歯
+严肃	yán sù	深刻
+延长	yán cháng	拡張する
+演讲	yǎn jiǎng	スピーチ
+宴会	yàn huì	バンケット
+阳台	yáng tái	バルコニー
+痒	yǎng	かゆみ
+样式	yàng shì	スタイル
+腰	yāo	ウエスト
+摇	yáo	振る
+咬	yǎo	一口
+要不	yào bù	または
+业务	yè wù	ビジネス
+业余	yè yú	アマチュア
+夜	yè	夜
+依然	yī rán	まだ
+一辈子	yí bèi zi	一生
+一旦	yí dàn	一度
+一律	yí lv4	常に
+一再	yí zài	繰り返し
+一致	yí zhì	一貫性がある
+疑问	yí wèn	疑問に思う
+移动	yí dòng	モバイル
+移民	yí mín	移民
+遗憾	yí hàn	後悔
+乙	yǐ	b
+以及	yǐ jí	と同様
+以来	yǐ lái	以来
+义务	yì wù	義務
+亿	yì	10億
+意外	yì wài	事故
+意义	yì yì	意義
+议论	yì lùn	トーク
+因而	yīn ér	したがって、
+因素	yīn sù	因子
+银	yín	銀
+印刷	yìn shuā	印刷
+英俊	yīng jùn	ハンサム
+英雄	yīng xióng	勇者
+营养	yíng yǎng	栄養
+营业	yíng yè	ビジネス
+迎接	yíng jiē	会う
+影子	yǐng zi	影
+应付	yìng fu	扱う
+应用	yìng yòng	応用
+硬	yìng	ハード
+硬件	yìng jiàn	ハードウェア
+拥抱	yōng bào	擁する
+拥挤	yōng jǐ	混雑
+勇气	yǒng qì	勇気
+用功	yòng gōng	一生懸命働く
+用途	yòng tú	使用する
+优惠	yōu huì	ディスカウント
+优美	yōu měi	綺麗な
+优势	yōu shì	利点
+悠久	yōu jiǔ	長いです
+油炸	yóu zhá	揚げ
+游览	yóu lǎn	旅行
+犹豫	yóu yù	躊躇する
+有利	yǒu lì	好ましい
+幼儿园	yòu ér yuán	幼稚園
+娱乐	yú lè	エンターテインメント
+与其	yǔ qí	の代わりに
+语气	yǔ qì	トーン
+玉米	yù mǐ	コーン
+预报	yù bào	予測
+预订	yù dìng	予約
+预防	yù fáng	防止
+元旦	yuán dàn	元旦
+原料	yuán liào	原材料
+原则	yuán zé	原則として
+员工	yuán gōng	従業員
+圆	yuán	円形
+愿望	yuàn wàng	欲望
+乐器	yuè qì	楽器
+晕	yūn	おやおや
+运气	yùn qi	幸運
+运输	yùn shū	輸送
+运用	yùn yòng	使用する
+灾害	zāi hài	災害
+再三	zài sān	繰り返し
+在乎	zài hu	ケア
+在于	zài yú	にあり
+赞成	zàn chéng	同意する
+赞美	zàn měi	賞賛
+糟糕	zāo gāo	悪い
+造成	zào chéng	原因
+则	zé	その後
+责备	zé bèi	非難
+摘	zhāi	ピック
+窄	zhǎi	狭い
+粘贴	zhān tiē	ペースト
+展开	zhǎn kāi	展開する
+展览	zhǎn lǎn	エキシビション
+占	zhàn	取り上げる
+战争	zhàn zhēng	戦争
+掌握	zhǎng wò	把握
+涨	zhǎng	上昇
+长辈	zhǎng bèi	長老
+账户	zhàng hù	アカウント
+招待	zhāo dài	楽しませる
+着火	zháo huǒ	燃えている
+着凉	zháo liáng	風邪をひく
+召开	zhào kāi	ホールド
+照常	zhào cháng	いつものように
+哲学	zhé xué	哲学
+珍惜	zhēn xī	大切に
+真实	zhēn shí	リアル
+针对	zhēn duì	に対して
+诊断	zhěn duàn	診断
+振动	zhèn dòng	振動
+阵	zhèn	アレイ
+争论	zhēng lùn	ディベート
+争取	zhēng qǔ	のために努力
+征求	zhēng qiú	求める
+挣	zhēng	稼ぐ
+睁	zhēng	目を開けてください
+整个	zhěng gè	全体
+整齐	zhěng qí	きちんとした
+整体	zhěng tǐ	全体
+政府	zhèng fǔ	政府
+政治	zhèng zhì	政治的
+正	zhèng	ポジティブ
+证件	zhèng jiàn	証明書
+证据	zhèng jù	証拠
+支	zhī	サポート
+支票	zhī piào	小切手
+执照	zhí zhào	ライセンス
+直	zhí	まっすぐ
+指导	zhǐ dǎo	ガイド
+指挥	zhǐ huī	コマンド
+制定	zhì dìng	作る
+制度	zhì dù	システム
+制造	zhì zào	製造
+制作	zhì zuò	作る
+志愿者	zhì yuàn zhě	ボランティア
+智慧	zhì huì	知恵
+治疗	zhì liáo	処理
+秩序	zhì xù	注文
+至今	zhì jīn	現在まで
+至于	zhì yú	はどうかと言うと
+中介	zhōng jiè	仲介
+中心	zhōng xīn	センター
+中旬	zhōng xún	中期
+种类	zhǒng lèi	種
+重大	zhòng dà	メジャー
+重量	zhòng liàng	重量
+周到	zhōu dao	思慮深い
+猪	zhū	豚
+竹子	zhú zi	竹
+逐步	zhú bù	ステップバイステップ
+逐渐	zhú jiàn	徐々に
+主持	zhǔ chí	ホスト
+主动	zhǔ dòng	主導権
+主观	zhǔ guān	主観的
+主人	zhǔ rén	ザ・ホスト
+主任	zhǔ rèn	ディレクター
+主题	zhǔ tí	テーマ
+主席	zhǔ xí	委員長
+主张	zhǔ zhāng	請求
+煮	zhǔ	クック
+注册	zhù cè	登録済み
+祝福	zhù fú	祝福
+抓	zhuā	つかむ
+抓紧	zhuā jǐn	細心の注意を払ってください
+专家	zhuān jiā	専門家
+专心	zhuān xīn	集中
+转变	zhuǎn biàn	変化する
+转告	zhuǎn gào	教えて
+装	zhuāng	インストール
+装饰	zhuāng shì	装飾
+装修	zhuāng xiū	装飾
+撞	zhuàng	ヒット
+状况	zhuàng kuàng	状況
+状态	zhuàng tài	状態
+追	zhuī	追跡
+追求	zhuī qiú	追求する
+咨询	zī xún	アドバイザリー
+姿势	zī shì	姿勢
+资格	zī gé	資格
+资金	zī jīn	資金
+资料	zī liào	データ
+资源	zī yuán	リソース
+紫	zǐ	紫の
+字母	zì mǔ	文字
+字幕	zì mù	字幕
+自从	zì cóng	以来
+自动	zì dòng	自動
+自豪	zì háo	誇り
+自觉	zì jué	意識的
+自私	zì sī	わがまま
+自由	zì yóu	自由
+自愿	zì yuàn	ボランティア
+综合	zōng hé	包括的
+总裁	zǒng cái	大統領
+总共	zǒng gòng	合計で
+总理	zǒng lǐ	首相
+总算	zǒng suàn	最後に
+总统	zǒng tǒng	大統領
+总之	zǒng zhī	要するに
+组	zǔ	グループ
+组成	zǔ chéng	組成
+组合	zǔ hé	組み合わせ
+组织	zǔ zhī	組織
+阻止	zǔ zhǐ	防ぐ
+最初	zuì chū	初期
+醉	zuì	酔って
+尊敬	zūn jìng	尊敬
+遵守	zūn shǒu	に適応
+作品	zuò pǐn	動作します
+作为	zuò wéi	なので
+作文	zuò wén	組成

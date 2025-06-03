@@ -1,0 +1,150 @@
+爱	ài	사랑
+八	bā	여덟
+爸爸	bà ba	아버지
+杯子	bēi zi	컵
+北京	běi jīng	베이징
+本	běn	이
+不客气	bú kè qi	천만에요
+不	bù	하지 마라
+菜	cài	요리
+茶	chá	차
+吃	chī	먹다
+出租车	chū zū chē	택시
+打电话	dǎ diàn huà	요구
+大	dà	큰
+的	de	의
+点	diǎn	포인트
+电脑	diàn nǎo	컴퓨터
+电视	diàn shì	tv
+电影	diàn yǐng	영화
+东西	dōng xi	맡은 일
+都	dōu	모두
+读	dú	읽다
+对不起	duì bu qǐ	죄송합니다
+多	duō	많은
+多少	duō shǎo	얼마나
+儿子	ér zi	아들
+二	èr	두
+饭店	fàn diàn	레스토랑
+飞机	fēi jī	항공기
+分钟	fēn zhōng	분
+高兴	gāo xìng	행복
+个	gè	ㅏ
+工作	gōng zuò	직업
+狗	gǒu	개
+汉语	hàn yǔ	중국말
+好	hǎo	좋다
+号	hào	번호
+喝	hē	음주
+和	hé	와
+很	hěn	대단히
+后面	hòu miàn	뒤에
+回	huí	돌아가다
+会	huì	모임
+几	jǐ	약간
+家	jiā	가족
+叫	jiào	요구
+今天	jīn tiān	요즘
+九	jiǔ	아홉
+开	kāi	열다
+看	kàn	보기
+看见	kàn jiàn	보다
+块	kuài	조각
+来	lái	왔다
+老师	lǎo shī	선생님
+了	le	쪽으로
+冷	lěng	춥다
+里	lǐ	에
+六	liù	육
+吗	ma	그것은
+妈妈	mā ma	엄마
+买	mǎi	구입
+猫	māo	고양이
+没关系	méi guān xi	괜찮아
+没有	méi yǒu	아니
+米饭	mǐ fàn	쌀
+名字	míng zi	이름
+明天	míng tiān	내일
+哪	nǎ	어디
+哪儿	nǎ er	어디
+那	nà	그
+呢	ne	뭐
+能	néng	할 수있다
+你	nǐ	당신
+年	nián	년
+女儿	nǚ ér	딸
+朋友	péng you	친구
+漂亮	piào liang	예쁜
+苹果	píng guǒ	사과
+七	qī	일곱
+前面	qián miàn	앞
+钱	qián	돈
+请	qǐng	부디
+去	qù	함께 가다
+热	rè	열
+人	rén	사람들
+认识	rèn shi	이해
+三	sān	세
+商店	shāng diàn	저장
+上	shàng	의 위에
+上午	shàng wǔ	아침
+少	shǎo	적게
+谁	shéi	who
+什么	shén me	뭐
+十	shí	십
+时候	shí hou	시각
+是	shì	예
+书	shū	도서
+水	shuǐ	물
+水果	shuǐguǒ	과일
+睡觉	shuì jiào	잠자리에 들다
+说	shuō	말하다
+四	sì	네
+岁	suì	세
+他	tā	그
+她	tā	그녀는
+太	tài	너무
+天气	tiān qì	날씨
+听	tīng	들리다
+同学	tóng xué	동급생
+喂	wèi	안녕 (감사)
+我	wǒ	나는
+我们	wǒ men	우리
+五	wǔ	파이브
+喜欢	xǐ huan	처럼
+下	xià	아래에
+下午	xià wǔ	오후에
+下雨	xià yǔ	비
+先生	xiān sheng	씨
+现在	xiàn zài	방금
+想	xiǎng	보고 싶어
+小	xiǎo	작은
+小姐	xiǎo jie	미스
+些	xiē	약간
+写	xiě	쓰다
+谢谢	xiè xie	감사합니다
+星期	xīng qī	주
+学生	xué sheng	학생
+学习	xué xí	배우다
+学校	xué xiào	학교
+一	yī	하나
+一点儿	yī diǎn er	조금
+医生	yī shēng	의사들
+医院	yī yuàn	병원
+衣服	yī fu	천
+椅子	yǐ zi	의자
+有	yǒu	있다
+月	yuè	달
+再见	zài jiàn	안녕
+在	zài	에
+怎么	zěn me	어떻게
+怎么样	zěn me yàng	어때?
+这	zhè	이
+中国	zhōng guó	중국
+中午	zhōng wǔ	정오
+住	zhù	라이브
+桌子	zhuō zi	표
+字	zì	워드
+昨天	zuó tiān	어제
+做	zuò	하다
+坐	zuò	앉다
