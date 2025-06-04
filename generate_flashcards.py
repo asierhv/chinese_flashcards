@@ -14,7 +14,7 @@ FONT_NAME = "NotoSansSC"
 # FONT_PATH = "NotoSerifSC-Regular.ttf"
 # FONT_NAME = "NotoSerifSC"
 
-LANGUAGE = "ar"
+LANGUAGE = "es"
 
 # PAGESIZE = "A3"
 PAGESIZE = "A4"
